@@ -5,7 +5,9 @@ import fs from "node:fs";
 import path from "node:path";
 
 const TOKEN = process.env.GITHUB_TOKEN;
-const MODEL = process.env.DIGEST_MODEL || "openai/gpt-4o-mini";
+// GitHub Models was retired on 30.07.2026, so the explanations come from free OpenRouter models, tried in order
+const OPENROUTER_KEY = process.env.OPENROUTER_API_KEY;
+const MODELS = (process.env.DIGEST_MODELS || "nvidia/nemotron-3-ultra-550b-a55b:free,google/gemma-4-31b-it:free,google/gemma-4-26b-a4b-it:free,openrouter/free").split(",");
 const MAX_ITEMS = Number(process.env.DIGEST_MAX || 25);
 const LOOKBACK_DAYS = 7; // projects created in the last week that are taking off
 const SEEN_FILE = "data/seen.json";
@@ -40,16 +42,26 @@ async function explain(repos) {
 Не измисляй — ако описанието е празно или неясно, напиши "Без описание — неясно за какво е." Запази имената точно.
 Проекти:
 ${JSON.stringify(list)}`;
-  const r = await fetch("https://models.github.ai/inference/chat/completions", {
-    method: "POST",
-    headers: { "Content-Type": "application/json", Authorization: `Bearer ${TOKEN}` },
-    body: JSON.stringify({ model: MODEL, temperature: 0.2, response_format: { type: "json_object" }, messages: [{ role: "user", content: prompt }] }),
-  });
-  if (!r.ok) throw new Error(`GitHub Models: HTTP ${r.status} ${(await r.text()).slice(0, 300)}`);
-  const text = (await r.json()).choices[0].message.content;
-  const start = text.indexOf("{"), end = text.lastIndexOf("}");
-  if (start < 0 || end <= start) throw new Error(`моделът не върна JSON: ${text.slice(0, 200)}`);
-  return JSON.parse(text.slice(start, end + 1));
+  if (!OPENROUTER_KEY) throw new Error("няма OPENROUTER_API_KEY в Secrets на хранилището");
+  const errors = [];
+  for (const model of MODELS) {
+    try {
+      const r = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${OPENROUTER_KEY}`, "X-Title": "open-sorse-all-new" },
+        body: JSON.stringify({ model, temperature: 0.2, messages: [{ role: "user", content: prompt }] }),
+        signal: AbortSignal.timeout(240_000),
+      });
+      if (!r.ok) throw new Error(`HTTP ${r.status} ${(await r.text()).slice(0, 200)}`);
+      const text = (await r.json()).choices?.[0]?.message?.content || "";
+      const start = text.indexOf("{"), end = text.lastIndexOf("}");
+      if (start < 0 || end <= start) throw new Error(`не върна JSON: ${text.slice(0, 200)}`);
+      const out = JSON.parse(text.slice(start, end + 1));
+      console.log(`Резюмето е от ${model}`);
+      return out;
+    } catch (e) { errors.push(`${model}: ${e.message}`); }
+  }
+  throw new Error(errors.join(" | "));
 }
 
 function render(repos, ai) {
