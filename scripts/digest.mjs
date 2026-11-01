@@ -43,11 +43,13 @@ ${JSON.stringify(list)}`;
   const r = await fetch("https://models.github.ai/inference/chat/completions", {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${TOKEN}` },
-    body: JSON.stringify({ model: MODEL, temperature: 0.2, messages: [{ role: "user", content: prompt }] }),
+    body: JSON.stringify({ model: MODEL, temperature: 0.2, response_format: { type: "json_object" }, messages: [{ role: "user", content: prompt }] }),
   });
   if (!r.ok) throw new Error(`GitHub Models: HTTP ${r.status} ${(await r.text()).slice(0, 300)}`);
-  const text = (await r.json()).choices[0].message.content.replace(/^```(json)?|```$/gm, "").trim();
-  return JSON.parse(text);
+  const text = (await r.json()).choices[0].message.content;
+  const start = text.indexOf("{"), end = text.lastIndexOf("}");
+  if (start < 0 || end <= start) throw new Error(`моделът не върна JSON: ${text.slice(0, 200)}`);
+  return JSON.parse(text.slice(start, end + 1));
 }
 
 function render(repos, ai) {
@@ -89,7 +91,7 @@ ${archive}
 }
 
 const seen = readJson(SEEN_FILE, {});
-const fresh = (await searchNew()).filter(r => !seen[r.full_name]).slice(0, MAX_ITEMS);
+const fresh = (await searchNew()).filter(r => !seen[r.full_name] || seen[r.full_name] === today).slice(0, MAX_ITEMS);
 if (!fresh.length) { console.log("Няма нови проекти днес."); process.exit(0); }
 
 let ai = null;
