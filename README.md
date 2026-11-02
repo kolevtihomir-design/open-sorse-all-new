@@ -4,42 +4,43 @@
 
 ---
 
-## Днес (2026-11-01)
+## Днес (2026-11-02)
 
-Тази седмица най-бързо набират звезди проекти за AI агенти и кодови асистенти, инструменти за сигурност и обратно инжиниринг, както и отворени данни за обучение и изкуство. Вижда се нарастване на мобилни и локални AI решения, статични рекомпилации на игри и образователни 3D ресурси.
+Тази седмица доминират AI-агенти и умни инструменти за разработчици — много проекти са "skills" за Claude Code или локални ботове с поддръжка на множество модели. Силен е и трендът към видео/анимация генерация и манипулация, както и утилити за системно администриране, сигурност и мобилни платформи.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | Друго | Без описание — неясно за какво е. | — | ⭐ 6023 |
-| 2 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | Данни | Китайски галерия за AI пози за референция, статичен сайт. | TypeScript | ⭐ 4959 |
-| 3 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | Агенти | Прототип на автономен AI агент за по-голяма автономност. | TypeScript | ⭐ 4881 |
-| 4 | [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | Агенти | Android приложение за локално стартиране и дистанционно управление на DeepSeek Harness. | Dart | ⭐ 4123 |
-| 5 | [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | Сигурност | Офлайн инструмент за откриване на следи от шпионски софтуер на множество платформи. | Python | ⭐ 4044 |
-| 6 | [heydamir/unslop](https://github.com/heydamir/unslop) | Инструменти | Claude умение за превръщане на AI-генерация UI в дизайнерски интерфейс. | JavaScript | ⭐ 4039 |
-| 7 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | Образование | Отворено приложение за изучаване на английски с илюстриран IELTS речник и аудио. | TypeScript | ⭐ 3633 |
-| 8 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Агенти | Локален AI агент за Android, управляващ приложения и уеб за автоматизация. | Kotlin | ⭐ 3225 |
-| 9 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | Игри | Статична рекомпилация на Zelda: Tears of the Kingdom за Windows с Vulkan рендерер. | C | ⭐ 2846 |
-| 10 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | Инструменти | Колекция от 244 пиксел арт ефекти с код и Claude Code умение за създаване. | JavaScript | ⭐ 1914 |
-| 11 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Уеб | Уебсайт за AI референции на женски дрехи и виртуално облекло с търсене и генерация. | Go | ⭐ 1820 |
-| 12 | [qybaihe/bla](https://github.com/qybaihe/bla) | Сигурност | Защитен щит срещу AI обратно инжиниринг на бинарни файлове, Electron, JS, Python и WASM. | JavaScript | ⭐ 1767 |
-| 13 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | Друго | Проект за печат на профилна снимка на касова принтера при звезда на репо. | — | ⭐ 1673 |
-| 14 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | Агенти | Генерация на говорящи дигитални хора от една снимка с множество стилове и компоненти. | TypeScript | ⭐ 1607 |
-| 15 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | Игри | Експериментален емулатор на Nintendo Switch 2, все още в ранна фаза. | C++ | ⭐ 1525 |
-| 16 | [lexifina/global-law](https://github.com/lexifina/global-law) | Данни | Git хранилище с законодателство на всяка държава като история на комитове. | HTML | ⭐ 1482 |
-| 17 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Агенти | Умение за AI агенти за генеалогично изследване на записи от бивш СССР. | Python | ⭐ 1415 |
-| 18 | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Инструменти | Безплатен Claude умение за създаване на кинематографски лендинг страници. | Python | ⭐ 1339 |
-| 19 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | Образование | Свободни интерактивни 3D уроци по науки за гимназиални ученици. | HTML | ⭐ 1229 |
-| 20 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Инструменти | Процедурално генерирани цветни марджери за LuaLaTeX, нарисовани на Lua. | Lua | ⭐ 1203 |
-| 21 | [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) | AI | Система за генериране на 3D сцени от изображение и промпт с камерна траектория. | Python | ⭐ 1131 |
-| 22 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | Инструменти | Интерактивна карта на кодовата база на чист английски, генерирана от Claude или Codex. | JavaScript | ⭐ 1082 |
-| 23 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Друго | Ръководство за емиграция в Европа с 36 държави и 110 маршрута. | Python | ⭐ 1054 |
-| 24 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Сигурност | Публичен proof-of-concept за предизвикателство 'Steal My Bitcoin'. | Python | ⭐ 1028 |
-| 25 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | Агенти | Инструмент за управление на системни промпти за множество кодови агенти чрез локален конзолен UI. | JavaScript | ⭐ 943 |
+| 1 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Инструменти | Rust инструмент за разбиране на софтуер и създаване на свой код. | Rust | ⭐ 2468 |
+| 2 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | Инструменти | PowerShell скрипт за инсталиране на Linux до Windows без USB. | PowerShell | ⭐ 1320 |
+| 3 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | Сигурност | Rust UEFI разблокирач за NVIDIA GPU под Windows, Linux и Hackintosh. | Rust | ⭐ 1243 |
+| 4 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | Агенти | Локален AI бот с достъп до 70+ модели през един ключ. | TypeScript | ⭐ 1216 |
+| 5 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | AI | Едно-кликов смяна на герои в видео чрез ComfyUI и MiniMax. | TypeScript | ⭐ 1163 |
+| 6 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | Игри | Claude Code умение за превръщане на машина в 3D симулатор. | JavaScript | ⭐ 1121 |
+| 7 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | Образование | Статична галерия с пози и облекла за арт референс (288 пози). | JavaScript | ⭐ 1032 |
+| 8 | [BookracyFOS/bookracy](https://github.com/BookracyFOS/bookracy) | Образование | Свободен отворен код за търсене, четене и библиотека от книги. | TypeScript | ⭐ 936 |
+| 9 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Сигурност | Android аудит на поверителност чрез ADB: права, ендпойнти, потокове. | Kotlin | ⭐ 906 |
+| 10 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Агенти | Agent skill: архитектурна диаграма от едно изречение за стека. | TypeScript | ⭐ 882 |
+| 11 | [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 843 |
+| 12 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | Агенти | Claude Code skill за обратен инженерство на анимации кадр по кадр. | JavaScript | ⭐ 831 |
+| 13 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | Агенти | AI водещ за лайв стрийм: глас, лице, чат, памет, постове. | JavaScript | ⭐ 830 |
+| 14 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | Данни | Self-hosted аналитика за GEO: AI краулъри, реферали, конверсии. | TypeScript | ⭐ 785 |
+| 15 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | AI | Бърз и точен OCR с оценка на коректността. | TypeScript | ⭐ 761 |
+| 16 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | Инструменти | Android APK за DeepSeek Harness без root и Termux. | Kotlin | ⭐ 742 |
+| 17 | [Fractal-Compute-Orchestrations/.github](https://github.com/Fractal-Compute-Orchestrations/.github) | Друго | Без описание — неясно за какво е. | — | ⭐ 740 |
+| 18 | [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | AI | Генерация на анимирани стилизирани коси от едно изображение. | Python | ⭐ 714 |
+| 19 | [benderandrew069/deepseek-api-pricing-2026](https://github.com/benderandrew069/deepseek-api-pricing-2026) | Инструменти | Ръководство за цени на DeepSeek API за 2026 г. | — | ⭐ 699 |
+| 20 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | Агенти | Колекция от умения за AI кодиране агенти. | TypeScript | ⭐ 670 |
+| 21 | [konlu/story-studio](https://github.com/konlu/story-studio) | Агенти | AI агент за създаване на кратки видеа: от тема до чернова в Jianying. | Python | ⭐ 663 |
+| 22 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Игри | AI агент за играене на всякаква игра. | Python | ⭐ 657 |
+| 23 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | AI | Китайска референтна библиотека за AI рисуване: лица, пози, облекла. | JavaScript | ⭐ 651 |
+| 24 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | Уеб | Пътеводител за изграждане на полезни и печеливши AI апликции през 2026. | TypeScript | ⭐ 608 |
+| 25 | [joeblau/subvox](https://github.com/joeblau/subvox) | Друго | Без описание — неясно за какво е. | Swift | ⭐ 603 |
 
-_Нови публични проекти, създадени след 2026-10-25, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-10-26, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-02](digest/2026/11-02.md)
 - [2026-11-01](digest/2026/11-01.md)
