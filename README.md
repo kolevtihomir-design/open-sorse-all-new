@@ -4,43 +4,44 @@
 
 ---
 
-## Днес (2026-11-02)
+## Днес (2026-11-03)
 
-Тази седмица доминират AI-агенти и умни инструменти за разработчици — много проекти са "skills" за Claude Code или локални ботове с поддръжка на множество модели. Силен е и трендът към видео/анимация генерация и манипулация, както и утилити за системно администриране, сигурност и мобилни платформи.
+Тази седмица превладват проекти за AI агенти и генеративни модели — от автономни пентeст ройове и кодови асистенти до видео/3D генерация и motion capture. Наблюдава се активност в емулатори за конзоли (Switch 2, GTA порт), сигурност (Android DoS, Switch exploit) и инструменти за данни (птици, iCloud S3). Излизат и образователни ресурси като китайският превод на Stanford CS329Z. Общо взето — силен фокус върху практически AI умения и нискониво системно програмиране.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Инструменти | Rust инструмент за разбиране на софтуер и създаване на свой код. | Rust | ⭐ 2468 |
-| 2 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | Инструменти | PowerShell скрипт за инсталиране на Linux до Windows без USB. | PowerShell | ⭐ 1320 |
-| 3 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | Сигурност | Rust UEFI разблокирач за NVIDIA GPU под Windows, Linux и Hackintosh. | Rust | ⭐ 1243 |
-| 4 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | Агенти | Локален AI бот с достъп до 70+ модели през един ключ. | TypeScript | ⭐ 1216 |
-| 5 | [D3voz/openjutsu](https://github.com/D3voz/openjutsu) | AI | Едно-кликов смяна на герои в видео чрез ComfyUI и MiniMax. | TypeScript | ⭐ 1163 |
-| 6 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | Игри | Claude Code умение за превръщане на машина в 3D симулатор. | JavaScript | ⭐ 1121 |
-| 7 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | Образование | Статична галерия с пози и облекла за арт референс (288 пози). | JavaScript | ⭐ 1032 |
-| 8 | [BookracyFOS/bookracy](https://github.com/BookracyFOS/bookracy) | Образование | Свободен отворен код за търсене, четене и библиотека от книги. | TypeScript | ⭐ 936 |
-| 9 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Сигурност | Android аудит на поверителност чрез ADB: права, ендпойнти, потокове. | Kotlin | ⭐ 906 |
-| 10 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Агенти | Agent skill: архитектурна диаграма от едно изречение за стека. | TypeScript | ⭐ 882 |
-| 11 | [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 843 |
-| 12 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | Агенти | Claude Code skill за обратен инженерство на анимации кадр по кадр. | JavaScript | ⭐ 831 |
-| 13 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | Агенти | AI водещ за лайв стрийм: глас, лице, чат, памет, постове. | JavaScript | ⭐ 830 |
-| 14 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | Данни | Self-hosted аналитика за GEO: AI краулъри, реферали, конверсии. | TypeScript | ⭐ 785 |
-| 15 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | AI | Бърз и точен OCR с оценка на коректността. | TypeScript | ⭐ 761 |
-| 16 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | Инструменти | Android APK за DeepSeek Harness без root и Termux. | Kotlin | ⭐ 742 |
-| 17 | [Fractal-Compute-Orchestrations/.github](https://github.com/Fractal-Compute-Orchestrations/.github) | Друго | Без описание — неясно за какво е. | — | ⭐ 740 |
-| 18 | [hyz317/HairDeck](https://github.com/hyz317/HairDeck) | AI | Генерация на анимирани стилизирани коси от едно изображение. | Python | ⭐ 714 |
-| 19 | [benderandrew069/deepseek-api-pricing-2026](https://github.com/benderandrew069/deepseek-api-pricing-2026) | Инструменти | Ръководство за цени на DeepSeek API за 2026 г. | — | ⭐ 699 |
-| 20 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | Агенти | Колекция от умения за AI кодиране агенти. | TypeScript | ⭐ 670 |
-| 21 | [konlu/story-studio](https://github.com/konlu/story-studio) | Агенти | AI агент за създаване на кратки видеа: от тема до чернова в Jianying. | Python | ⭐ 663 |
-| 22 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Игри | AI агент за играене на всякаква игра. | Python | ⭐ 657 |
-| 23 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | AI | Китайска референтна библиотека за AI рисуване: лица, пози, облекла. | JavaScript | ⭐ 651 |
-| 24 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | Уеб | Пътеводител за изграждане на полезни и печеливши AI апликции през 2026. | TypeScript | ⭐ 608 |
-| 25 | [joeblau/subvox](https://github.com/joeblau/subvox) | Друго | Без описание — неясно за какво е. | Swift | ⭐ 603 |
+| 1 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | AI | Генерация на анимирани кратки истории с 2D персонажи в 3D свят чрез three.js и Remotion | TypeScript | ⭐ 941 |
+| 2 | [Pika-Labs/Pika-H3-Flex](https://github.com/Pika-Labs/Pika-H3-Flex) | AI | Инференс модел за генериране на видео и аудио | Python | ⭐ 701 |
+| 3 | [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk) | AI | SDK за превръщане на единично изображение в 3D гаусиани | Python | ⭐ 697 |
+| 4 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Инструменти | Оценка на Steam инвентар в терминал и споделяне като карта | Python | ⭐ 669 |
+| 5 | [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) | Агенти | Автономен пентeст легион с AI командир и рой работници | Python | ⭐ 654 |
+| 6 | [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) | Инструменти | AI браузър за изпълнение на JavaScript от Python с Firefox движок | C++ | ⭐ 651 |
+| 7 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | Данни | Библиотека с наклейки за 11 064 видове птици на 43 езика | — | ⭐ 609 |
+| 8 | [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | Уеб | Реално-времевен океански рендерер за three.js с вълни, пяна и каустика | JavaScript | ⭐ 602 |
+| 9 | [Balanov/uncut](https://github.com/Balanov/uncut) | Агенти | Headless харнес за кодови агенти: 7 MB бинарен файл, четири инструмента | Go | ⭐ 582 |
+| 10 | [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) | Инструменти | Приложение за запис на разговори без root, с AES-256-GCM криптиране | Kotlin | ⭐ 553 |
+| 11 | [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs) | Данни | Логове от експерименти за разбиране на невронни тегла от LLM | Python | ⭐ 547 |
+| 12 | [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills) | AI | 21 AI умения за пълна продукция на манга: от идея до видео промпти | — | ⭐ 540 |
+| 13 | [zortos293/Eglantine](https://github.com/zortos293/Eglantine) | Игри | Експериментален емулатор за Nintendo Switch 2 | C++ | ⭐ 537 |
+| 14 | [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | Сигурност | Изпълнение на код в userland на Switch чрез картридж Civilization 7 | JavaScript | ⭐ 522 |
+| 15 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Агенти | Работни процеси и умения за изграждане на MiniMax Code агент | Python | ⭐ 514 |
+| 16 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | AI | Motion capture за всяка същност от едно AI видео с DINOv2 | Python | ⭐ 494 |
+| 17 | [NotRexed/SkyboundTotk](https://github.com/NotRexed/SkyboundTotk) | Игри | Без описание — неясно за какво е. | C++ | ⭐ 491 |
+| 18 | [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) | Инструменти | S3-совместимо обектно хранилище, базирано на споделени iCloud албуми | Rust | ⭐ 487 |
+| 19 | [wanghao-SunSky/cs329z-chinese](https://github.com/wanghao-SunSky/cs329z-chinese) | Образование | Китайски превод на Stanford CS329Z курс за инженерство на AI агенти | HTML | ⭐ 476 |
+| 20 | [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) | Сигурност | Тихо отказ на услуга за всички Android телефони през SMS | Java | ⭐ 474 |
+| 21 | [jyotipmahes/ML-Interview-Prep](https://github.com/jyotipmahes/ML-Interview-Prep) | Образование | Без описание — неясно за какво е. | Jupyter Notebook | ⭐ 466 |
+| 22 | [hongye007/open-pose-costume](https://github.com/hongye007/open-pose-costume) | AI | Двуезичен студио за пози, костюми и създаване на AI персонажи | TypeScript | ⭐ 449 |
+| 23 | [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp) | Игри | Нативен порт на GTA Vice City Stories за Windows и Linux чрез рекомпилация | C++ | ⭐ 447 |
+| 24 | [parallelpan/hongguo-downloader](https://github.com/parallelpan/hongguo-downloader) | Инструменти | Инструмент за изтегляне на китайски кратки драми от Hongguo | — | ⭐ 442 |
+| 25 | [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 437 |
 
-_Нови публични проекти, създадени след 2026-10-26, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-10-27, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-03](digest/2026/11-03.md)
 - [2026-11-02](digest/2026/11-02.md)
 - [2026-11-01](digest/2026/11-01.md)
