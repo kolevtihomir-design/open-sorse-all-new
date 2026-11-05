@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-04)
+## Днес (2026-11-05)
 
-Тази седмица преобладават проекти за AI агенти и инструменти — автоматизация на CLI, безцензурни API, генерация на видео и код. Се виждат и експериментални емулатори за Switch 2, OSINT инструменти за сигурност и интерактивни образователни ресурси. Тенденцията е към локално хоствани, open-source AI решения и утилити за продуктивност.
+Тази седмица превладват проекти за AI генерация и анализ на видео, автоматизация за социални медии и разработка на AI агенти. Наблюдава се силен интерес към инструменти за игри, сигурност и производителност за разработчици.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | Агенти | AI агент за автоматизация на CLI задачи с самокорекция. | TypeScript | ⭐ 1974 |
-| 2 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Инструменти | Цял macOS в терминал за работа без GUI. | Swift | ⭐ 965 |
-| 3 | [wquguru/cicada](https://github.com/wquguru/cicada) | AI | Реално време субтитри и превод за срещи на macOS. | Swift | ⭐ 928 |
-| 4 | [anthropics/FlashProve](https://github.com/anthropics/FlashProve) | AI | Изследвателски прототип за нула-познаване доказателства за AI инференция. | Lean | ⭐ 679 |
-| 5 | [zortos293/Lichii](https://github.com/zortos293/Lichii) | Игри | Експериментален емулатор за Nintendo Switch 2. | C++ | ⭐ 644 |
-| 6 | [rerun-build/rerun](https://github.com/rerun-build/rerun) | Агенти | AI сътрудници за самохостване на работни процеси. | TypeScript | ⭐ 632 |
-| 7 | [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow) | Друго | Работен процес за създаване на DSH jailbreak промпти. | TypeScript | ⭐ 504 |
-| 8 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | Инструменти | Трети клиент за YellowFruit платформа. | TypeScript | ⭐ 495 |
-| 9 | [UncensoredLabs/uncensored-ai-api](https://github.com/UncensoredLabs/uncensored-ai-api) | AI | Безцензурно AI API с DeepSeek и GLM модели. | JavaScript | ⭐ 485 |
-| 10 | [XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts) | AI | 341 стилове за анимация на код за Claude/Codex. | HTML | ⭐ 484 |
-| 11 | [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge) | AI | Генерация на 지식ови клипове с Claude Code умения. | JavaScript | ⭐ 458 |
-| 12 | [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | Сигурност | OSINT инструмент за Windows с 3100+ източници. | TypeScript | ⭐ 449 |
-| 13 | [Balanov/shim](https://github.com/Balanov/shim) | AI | Локален AI харнес за модели и умения. | Go | ⭐ 449 |
-| 14 | [yetone/alma-relay](https://github.com/yetone/alma-relay) | Инструменти | Самохостван релей за отдалечен достъп до Alma. | JavaScript | ⭐ 449 |
-| 15 | [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box) | Игри | Инструмент за пакетиране на игри за Switch 2. | Python | ⭐ 436 |
-| 16 | [wquguru/shisei](https://github.com/wquguru/shisei) | AI | Безплатна библиотека пози за AI генерация на изображения. | Python | ⭐ 423 |
-| 17 | [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk) | Инструменти | Обединена работна площ за компютри и телефон. | JavaScript | ⭐ 422 |
-| 18 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | AI | NSFW AI видео API за възрастни. | — | ⭐ 421 |
-| 19 | [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design) | AI | DeepSeek Harness плъгин за дизайн и презентации. | HTML | ⭐ 419 |
-| 20 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | Сигурност | Изтриване на лични данни от 970 брокери. | JavaScript | ⭐ 402 |
-| 21 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | AI | Правна проверка на уебсайтове за Виетнам за AI агенти. | Shell | ⭐ 399 |
-| 22 | [Pluviobyte/douyin-comments](https://github.com/Pluviobyte/douyin-comments) | Агенти | Agent умение за извличане на коментари от Douyin. | JavaScript | ⭐ 390 |
-| 23 | [tang1693/KIKUmap](https://github.com/tang1693/KIKUmap) | Инструменти | Ментална карта за чатове с Claude/ChatGPT в macOS. | Swift | ⭐ 383 |
-| 24 | [nathanliow/atlas-of-physics](https://github.com/nathanliow/atlas-of-physics) | Образование | Интерактивна 3D учебник за AP физика. | JavaScript | ⭐ 383 |
-| 25 | [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays) | Игри | Браузърни игри като изометрични пикселни диорами. | HTML | ⭐ 381 |
+| 1 | [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | AI | Обратен инжиниринг на видео, кадр по кадр, за откриване на AI генерация и възпроизвеждане. | Python | ⭐ 1709 |
+| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | AI | Без описание — неясно за какво е. | Python | ⭐ 1584 |
+| 3 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Инструменти | Бързо нативно приложение за бележки на macOS и Windows, локално първо, съвместимо с Feishu. | Rust | ⭐ 949 |
+| 4 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | Агенти | Локален мост за Muse, позволяващ на AI агенти да създават снимки и видео. | TypeScript | ⭐ 701 |
+| 5 | [kevintngo/looseleaf](https://github.com/kevintngo/looseleaf) | Уеб | 123 достъпни React компоненти в стил рисуван от ръка, с shadcn регистър. | TypeScript | ⭐ 451 |
+| 6 | [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks) | Инструменти | Неофициални подобрения за браузър Dia, запазвани при актуализации. | Objective-C | ⭐ 432 |
+| 7 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Инструменти | Автоматизиран качвач за YouTube с пакетна обработка, миниатюри и планирано публикуване. | Python | ⭐ 426 |
+| 8 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | Инструменти | Анимирани фони за Windows 10/11 с 60 FPS, ниско натоварване и 4K поддръжка. | — | ⭐ 426 |
+| 9 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Инструменти | Автоматизиран качвач за TikTok с пакетна обработка, разписание и управление на хаштагове. | Python | ⭐ 425 |
+| 10 | [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever) | Игри | Бот за аукционен дом в WoW Forever: купува ниско, продава високо и подценява. | Rust | ⭐ 422 |
+| 11 | [drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp) | Игри | Nintendo Switch 2 игри прекомпилирани за локално стартиране на PC, Pokémon Pokopia е играем. | C++ | ⭐ 408 |
+| 12 | [PatchBuilderAmplify/stolen-crypto-tracer](https://github.com/PatchBuilderAmplify/stolen-crypto-tracer) | Сигурност | Проследяване на краднати криптовалути през портфейл или хеш до биржа за замразяване. | JavaScript | ⭐ 407 |
+| 13 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | AI | Шест умения на Claude Code за анимации за Reels без снимки: 3D, чертежи, графики. | JavaScript | ⭐ 392 |
+| 14 | [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | Инструменти | Високопроизводителен отдалечен работен плот през QUIC, написан на Rust, Tauri и React. | Rust | ⭐ 379 |
+| 15 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | Агенти | AI гледа екрана в реално време, филтрира кадри по промяна и спестява токени. | JavaScript | ⭐ 370 |
+| 16 | [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | Образование | Урок за AI агенти от нула: локален агент с файлове, команди, MCP, памет и уеб интерфейс. | Python | ⭐ 366 |
+| 17 | [justrach/nanolight](https://github.com/justrach/nanolight) | Инструменти | Стартър за Mac (⌘Space) с приложения, математика, Google препоръки, Grok и X. | Zig | ⭐ 366 |
+| 18 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | Игри | Библиотека за облекло на аниме герои: коси, дрехи, пози и събиране. | JavaScript | ⭐ 365 |
+| 19 | [0xCodez/cleanly](https://github.com/0xCodez/cleanly) | Инструменти | Стилно и безопасно почистване на диск за Windows и macOS, изградено на Electron. | TypeScript | ⭐ 362 |
+| 20 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | AI | Филми създадени с код: AI агент пише сценарий, изгражда кадри, звук и дава MP4. | Python | ⭐ 358 |
+| 21 | [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | AI | Генериране на образи на кит-момиче от позни чертежи и костюми, интеграция с DeepSeek Harness. | JavaScript | ⭐ 356 |
+| 22 | [soimy/c3rb3r-rescue](https://github.com/soimy/c3rb3r-rescue) | Сигурност | Възстановяване от ransomware DSM: запазване, извличане на ключ от RAM, декриптиране и валидация. | Python | ⭐ 343 |
+| 23 | [mylea1/phongent](https://github.com/mylea1/phongent) | Агенти | Мулти-устройствен агент за iOS/Android базиран на Mika: главен контролер и Android изпълнител. | Kotlin | ⭐ 342 |
+| 24 | [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Игри | Маршрутизатор за игри: тества пътища, изпраща трафик по най-бързия и дублира пакети срещу загуби. | Rust | ⭐ 342 |
+| 25 | [5151561/Trackr](https://github.com/5151561/Trackr) | Инструменти | Реално време на пристигане на автобуси и динамично проследяване на обществения транспорт. | Kotlin | ⭐ 341 |
 
-_Нови публични проекти, създадени след 2026-10-28, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-10-29, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-05](digest/2026/11-05.md)
 - [2026-11-04](digest/2026/11-04.md)
 - [2026-11-03](digest/2026/11-03.md)
 - [2026-11-02](digest/2026/11-02.md)
