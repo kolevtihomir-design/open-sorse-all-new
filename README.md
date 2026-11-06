@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-05)
+## Днес (2026-11-06)
 
-Тази седмица превладват проекти за AI генерация и анализ на видео, автоматизация за социални медии и разработка на AI агенти. Наблюдава се силен интерес към инструменти за игри, сигурност и производителност за разработчици.
+Тази седмица най-бързо набират звезди проекти за AI агенти и MCP интеграции, приватни настолни утилити за крипто и игри, както и инструменти за експорт на данни и 3D моделиране. Наблюдава се нарастване на open-source решения за локален контрол, сигурност и образователни приложения.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) | AI | Обратен инжиниринг на видео, кадр по кадр, за откриване на AI генерация и възпроизвеждане. | Python | ⭐ 1709 |
-| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | AI | Без описание — неясно за какво е. | Python | ⭐ 1584 |
-| 3 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Инструменти | Бързо нативно приложение за бележки на macOS и Windows, локално първо, съвместимо с Feishu. | Rust | ⭐ 949 |
-| 4 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | Агенти | Локален мост за Muse, позволяващ на AI агенти да създават снимки и видео. | TypeScript | ⭐ 701 |
-| 5 | [kevintngo/looseleaf](https://github.com/kevintngo/looseleaf) | Уеб | 123 достъпни React компоненти в стил рисуван от ръка, с shadcn регистър. | TypeScript | ⭐ 451 |
-| 6 | [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks) | Инструменти | Неофициални подобрения за браузър Dia, запазвани при актуализации. | Objective-C | ⭐ 432 |
-| 7 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Инструменти | Автоматизиран качвач за YouTube с пакетна обработка, миниатюри и планирано публикуване. | Python | ⭐ 426 |
-| 8 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | Инструменти | Анимирани фони за Windows 10/11 с 60 FPS, ниско натоварване и 4K поддръжка. | — | ⭐ 426 |
-| 9 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Инструменти | Автоматизиран качвач за TikTok с пакетна обработка, разписание и управление на хаштагове. | Python | ⭐ 425 |
-| 10 | [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever) | Игри | Бот за аукционен дом в WoW Forever: купува ниско, продава високо и подценява. | Rust | ⭐ 422 |
-| 11 | [drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp) | Игри | Nintendo Switch 2 игри прекомпилирани за локално стартиране на PC, Pokémon Pokopia е играем. | C++ | ⭐ 408 |
-| 12 | [PatchBuilderAmplify/stolen-crypto-tracer](https://github.com/PatchBuilderAmplify/stolen-crypto-tracer) | Сигурност | Проследяване на краднати криптовалути през портфейл или хеш до биржа за замразяване. | JavaScript | ⭐ 407 |
-| 13 | [artemnovitckii/claude-animation-skills](https://github.com/artemnovitckii/claude-animation-skills) | AI | Шест умения на Claude Code за анимации за Reels без снимки: 3D, чертежи, графики. | JavaScript | ⭐ 392 |
-| 14 | [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | Инструменти | Високопроизводителен отдалечен работен плот през QUIC, написан на Rust, Tauri и React. | Rust | ⭐ 379 |
-| 15 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now) | Агенти | AI гледа екрана в реално време, филтрира кадри по промяна и спестява токени. | JavaScript | ⭐ 370 |
-| 16 | [aa1143/NamiAgent](https://github.com/aa1143/NamiAgent) | Образование | Урок за AI агенти от нула: локален агент с файлове, команди, MCP, памет и уеб интерфейс. | Python | ⭐ 366 |
-| 17 | [justrach/nanolight](https://github.com/justrach/nanolight) | Инструменти | Стартър за Mac (⌘Space) с приложения, математика, Google препоръки, Grok и X. | Zig | ⭐ 366 |
-| 18 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | Игри | Библиотека за облекло на аниме герои: коси, дрехи, пози и събиране. | JavaScript | ⭐ 365 |
-| 19 | [0xCodez/cleanly](https://github.com/0xCodez/cleanly) | Инструменти | Стилно и безопасно почистване на диск за Windows и macOS, изградено на Electron. | TypeScript | ⭐ 362 |
-| 20 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | AI | Филми създадени с код: AI агент пише сценарий, изгражда кадри, звук и дава MP4. | Python | ⭐ 358 |
-| 21 | [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) | AI | Генериране на образи на кит-момиче от позни чертежи и костюми, интеграция с DeepSeek Harness. | JavaScript | ⭐ 356 |
-| 22 | [soimy/c3rb3r-rescue](https://github.com/soimy/c3rb3r-rescue) | Сигурност | Възстановяване от ransomware DSM: запазване, извличане на ключ от RAM, декриптиране и валидация. | Python | ⭐ 343 |
-| 23 | [mylea1/phongent](https://github.com/mylea1/phongent) | Агенти | Мулти-устройствен агент за iOS/Android базиран на Mika: главен контролер и Android изпълнител. | Kotlin | ⭐ 342 |
-| 24 | [StormSkinkGrip/game-ping-multipath-router](https://github.com/StormSkinkGrip/game-ping-multipath-router) | Игри | Маршрутизатор за игри: тества пътища, изпраща трафик по най-бързия и дублира пакети срещу загуби. | Rust | ⭐ 342 |
-| 25 | [5151561/Trackr](https://github.com/5151561/Trackr) | Инструменти | Реално време на пристигане на автобуси и динамично проследяване на обществения транспорт. | Kotlin | ⭐ 341 |
+| 1 | [livliv-dev/player](https://github.com/livliv-dev/player) | Уеб | Лесен 2.5D уеб плеър за аватари с липсинк и проследяване на лице. | TypeScript | ⭐ 808 |
+| 2 | [jxy333967/jianxunyun](https://github.com/jxy333967/jianxunyun) | Сигурност | VPN услуга „简讯云“ за сигурен достъп до интернет. | — | ⭐ 721 |
+| 3 | [chadyi/StudyOnTV](https://github.com/chadyi/StudyOnTV) | Образование | Android TV приложение: децата отключват екранно време чрез отговаряне на въпроси. | Kotlin | ⭐ 640 |
+| 4 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | AI | Python библиотека за 3D моделиране, оптимизирана за голям езиков модел. | HTML | ⭐ 574 |
+| 5 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Друго | Без описание — неясно за какво е. | Python | ⭐ 547 |
+| 6 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Инструменти | Codex умение за създаване и проверка на анимирани GIF стикери от референции. | Python | ⭐ 528 |
+| 7 | [libracoder/kiri](https://github.com/libracoder/kiri) | Инструменти | Малък и бърз контейнерен runtime за macOS, Windows и Linux. | Rust | ⭐ 439 |
+| 8 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Сигурност | Настолно приложение за търсене на хора по псевдоним, имейл, телефон или сайт. | TypeScript | ⭐ 435 |
+| 9 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Агенти | MCP сървър за Roblox Studio, свързващ AI асистенти за четене и редактиране. | Python | ⭐ 427 |
+| 10 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Игри | Лека утилита за производителност в Roblox: повишава FPS, намалява закъснения. | Python | ⭐ 425 |
+| 11 | [Lowbetweentrim/crypto-portfolio-tracker](https://github.com/Lowbetweentrim/crypto-portfolio-tracker) | Данни | Самохостнат крипто портфолио тракер: импорт CSV, реално PnL, локално управление. | Python | ⭐ 425 |
+| 12 | [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop) | Игри | Настолно приложение за оценка на Steam инвентар: живи цени и споделяне. | JavaScript | ⭐ 421 |
+| 13 | [Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool) | Инструменти | CLI инструмент за превръщане на Fabric/NeoForge модове в Rust за Horizon. | JavaScript | ⭐ 420 |
+| 14 | [Renly1994/xiaotang-daozai](https://github.com/Renly1994/xiaotang-daozai) | Инструменти | Windows динамичен остров на Rust: музика, кодове, напомняния, задачи и AI квота. | Rust | ⭐ 409 |
+| 15 | [stubbi/asm](https://github.com/stubbi/asm) | Инструменти | Мениджър на пакети и регистър за асемблерни проекти (x86-64, ARM, RISC-V). | Assembly | ⭐ 406 |
+| 16 | [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) | Агенти | Лека виртуална машина за Claude, без мрежови утечки, поддържа многопотребителски достъп. | Go | ⭐ 392 |
+| 17 | [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Данни | Настолен анализатор за DEX активност: открива скъм и rugpull модели в реално време. | Python | ⭐ 391 |
+| 18 | [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika) | AI | Open-source AI съпътник Amika с Live2D аватар, глас и дългопътяща памет. | Python | ⭐ 376 |
+| 19 | [xFractals/pokopia-native](https://github.com/xFractals/pokopia-native) | Игри | Нативен порт на Pokémon Pokopia (Switch 2) за Windows, Mac, iOS. | C | ⭐ 376 |
+| 20 | [WANGXIN-567/weread-book-exporter](https://github.com/WANGXIN-567/weread-book-exporter) | Инструменти | Инструмент за беззагубен експорт на книги от WeRead в PDF, EPUB, Markdown. | Python | ⭐ 372 |
+| 21 | [mofan6/Moect](https://github.com/mofan6/Moect) | Инструменти | Експорт и архив на WeChat 4.x чатове: HTML, JSON, Markdown, CSV и др. | Python | ⭐ 368 |
+| 22 | [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) | Данни | Python инструмент за акустична геолокация на самолети чрез исторически ADS-B данни. | Python | ⭐ 366 |
+| 23 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Агенти | Локален MCP сървър и агент, позволяващи на AI да управлява реален iPhone. | JavaScript | ⭐ 349 |
+| 24 | [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills) | Сигурност | AI умения за уеб сигурност и автоматизация: 28 шаблона за пентестинг и MCP. | JavaScript | ⭐ 345 |
+| 25 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | AI | Рамка за последващо поколение Transformers/LLM с бенчмарки и автономно изследване на архитектури. | Python | ⭐ 335 |
 
-_Нови публични проекти, създадени след 2026-10-29, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-10-30, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-06](digest/2026/11-06.md)
 - [2026-11-05](digest/2026/11-05.md)
 - [2026-11-04](digest/2026/11-04.md)
 - [2026-11-03](digest/2026/11-03.md)
