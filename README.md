@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-06)
+## Днес (2026-11-07)
 
-Тази седмица най-бързо набират звезди проекти за AI агенти и MCP интеграции, приватни настолни утилити за крипто и игри, както и инструменти за експорт на данни и 3D моделиране. Наблюдава се нарастване на open-source решения за локален контрол, сигурност и образователни приложения.
+Тази седмица доминантна е темата на Nintendo Switch 2 емулация и нативни рекомпилации на класически игри. Наблюдава се растеж на AI-агентска инфраструктура и 3D движъци за агенти. Популярни са и креативни генеративни инструменти за стикери, GIF и виртуални домашни любимци. Discord-утилити за OSINT и автоматизация също набират звезди бързо.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [livliv-dev/player](https://github.com/livliv-dev/player) | Уеб | Лесен 2.5D уеб плеър за аватари с липсинк и проследяване на лице. | TypeScript | ⭐ 808 |
-| 2 | [jxy333967/jianxunyun](https://github.com/jxy333967/jianxunyun) | Сигурност | VPN услуга „简讯云“ за сигурен достъп до интернет. | — | ⭐ 721 |
-| 3 | [chadyi/StudyOnTV](https://github.com/chadyi/StudyOnTV) | Образование | Android TV приложение: децата отключват екранно време чрез отговаряне на въпроси. | Kotlin | ⭐ 640 |
-| 4 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | AI | Python библиотека за 3D моделиране, оптимизирана за голям езиков модел. | HTML | ⭐ 574 |
-| 5 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Друго | Без описание — неясно за какво е. | Python | ⭐ 547 |
-| 6 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Инструменти | Codex умение за създаване и проверка на анимирани GIF стикери от референции. | Python | ⭐ 528 |
-| 7 | [libracoder/kiri](https://github.com/libracoder/kiri) | Инструменти | Малък и бърз контейнерен runtime за macOS, Windows и Linux. | Rust | ⭐ 439 |
-| 8 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | Сигурност | Настолно приложение за търсене на хора по псевдоним, имейл, телефон или сайт. | TypeScript | ⭐ 435 |
-| 9 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Агенти | MCP сървър за Roblox Studio, свързващ AI асистенти за четене и редактиране. | Python | ⭐ 427 |
-| 10 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Игри | Лека утилита за производителност в Roblox: повишава FPS, намалява закъснения. | Python | ⭐ 425 |
-| 11 | [Lowbetweentrim/crypto-portfolio-tracker](https://github.com/Lowbetweentrim/crypto-portfolio-tracker) | Данни | Самохостнат крипто портфолио тракер: импорт CSV, реално PnL, локално управление. | Python | ⭐ 425 |
-| 12 | [MythicHokageRepel/steam-inventory-value-desktop](https://github.com/MythicHokageRepel/steam-inventory-value-desktop) | Игри | Настолно приложение за оценка на Steam инвентар: живи цени и споделяне. | JavaScript | ⭐ 421 |
-| 13 | [Wallbycontact/java-mod-rust-port-tool](https://github.com/Wallbycontact/java-mod-rust-port-tool) | Инструменти | CLI инструмент за превръщане на Fabric/NeoForge модове в Rust за Horizon. | JavaScript | ⭐ 420 |
-| 14 | [Renly1994/xiaotang-daozai](https://github.com/Renly1994/xiaotang-daozai) | Инструменти | Windows динамичен остров на Rust: музика, кодове, напомняния, задачи и AI квота. | Rust | ⭐ 409 |
-| 15 | [stubbi/asm](https://github.com/stubbi/asm) | Инструменти | Мениджър на пакети и регистър за асемблерни проекти (x86-64, ARM, RISC-V). | Assembly | ⭐ 406 |
-| 16 | [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) | Агенти | Лека виртуална машина за Claude, без мрежови утечки, поддържа многопотребителски достъп. | Go | ⭐ 392 |
-| 17 | [Nebularotunnel/Token-Sniper](https://github.com/Nebularotunnel/Token-Sniper) | Данни | Настолен анализатор за DEX активност: открива скъм и rugpull модели в реално време. | Python | ⭐ 391 |
-| 18 | [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika) | AI | Open-source AI съпътник Amika с Live2D аватар, глас и дългопътяща памет. | Python | ⭐ 376 |
-| 19 | [xFractals/pokopia-native](https://github.com/xFractals/pokopia-native) | Игри | Нативен порт на Pokémon Pokopia (Switch 2) за Windows, Mac, iOS. | C | ⭐ 376 |
-| 20 | [WANGXIN-567/weread-book-exporter](https://github.com/WANGXIN-567/weread-book-exporter) | Инструменти | Инструмент за беззагубен експорт на книги от WeRead в PDF, EPUB, Markdown. | Python | ⭐ 372 |
-| 21 | [mofan6/Moect](https://github.com/mofan6/Moect) | Инструменти | Експорт и архив на WeChat 4.x чатове: HTML, JSON, Markdown, CSV и др. | Python | ⭐ 368 |
-| 22 | [1337isnot1337/DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST) | Данни | Python инструмент за акустична геолокация на самолети чрез исторически ADS-B данни. | Python | ⭐ 366 |
-| 23 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Агенти | Локален MCP сървър и агент, позволяващи на AI да управлява реален iPhone. | JavaScript | ⭐ 349 |
-| 24 | [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills) | Сигурност | AI умения за уеб сигурност и автоматизация: 28 шаблона за пентестинг и MCP. | JavaScript | ⭐ 345 |
-| 25 | [Interactive-Active-AI/NextTransformer](https://github.com/Interactive-Active-AI/NextTransformer) | AI | Рамка за последващо поколение Transformers/LLM с бенчмарки и автономно изследване на архитектури. | Python | ⭐ 335 |
+| 1 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | Инструменти | Без описание — неясно за какво е. | JavaScript | ⭐ 1332 |
+| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | Игри | Нативна рекомпилация на Zelda OOT за Nintendo Switch 2. | C++ | ⭐ 839 |
+| 3 | [voyager-so/vork](https://github.com/voyager-so/vork) | Агенти | Headless 3D и VFX движък за AI агенти. | Rust | ⭐ 602 |
+| 4 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | Инструменти | Генератор на GIF в различни стилове: пиксел, глиняни маскоти, постъри. | Python | ⭐ 595 |
+| 5 | [Leviidev/Henge](https://github.com/Leviidev/Henge) | Инструменти | Емулация на macOS върху iOS и iPadOS устройства. | C | ⭐ 554 |
+| 6 | [egoist/mygo-music](https://github.com/egoist/mygo-music) | Инструменти | Нативен музикален плеър с поддръжка за разширители. | Go | ⭐ 538 |
+| 7 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Агенти | Гласов интерфейс за Hermes Agent през Home Assistant. | Python | ⭐ 473 |
+| 8 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | Игри | Нативен порт на Ocarina of Time за Windows без емулатор. | C | ⭐ 455 |
+| 9 | [phaseboulderfetter/discord-quest-completer](https://github.com/phaseboulderfetter/discord-quest-completer) | Инструменти | Автоматично завършване на Discord Quests без инсталиране на игри. | Python | ⭐ 425 |
+| 10 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Игри | Ръководство за форкове на Nintendo Switch 2 емулатори. | Python | ⭐ 415 |
+| 11 | [woniuniuniu/dsh-media-desk](https://github.com/woniuniuniu/dsh-media-desk) | Инструменти | DeepSeek Harness плъгин за медийно работно място и съдържание. | JavaScript | ⭐ 414 |
+| 12 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | Сигурност | OSINT инструмент за анализ на Discord ID, сървъри и покани. | HTML | ⭐ 381 |
+| 13 | [v1ktorrr0x/antigravity-filter-bypass](https://github.com/v1ktorrr0x/antigravity-filter-bypass) | Сигурност | Без описание — неясно за какво е. | Python | ⭐ 367 |
+| 14 | [CzJam/gjgjxweb](https://github.com/CzJam/gjgjxweb) | Уеб | Уеб версия на мобилния инструментариум '搞机工具箱'. | HTML | ⭐ 364 |
+| 15 | [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop) | Инструменти | Генерира последователни анимирани стикери от една снимка. | Python | ⭐ 351 |
+| 16 | [MagoStudio/MagoStudio](https://github.com/MagoStudio/MagoStudio) | Друго | MagoStudio приложение — подробности липсват. | TypeScript | ⭐ 351 |
+| 17 | [free-dam-man/agent-deploy-memory-muse](https://github.com/free-dam-man/agent-deploy-memory-muse) | Сигурност | Методология за разгръщане на криптирани узли без ключове. | — | ⭐ 350 |
+| 18 | [momusdigital/fnv_decomp](https://github.com/momusdigital/fnv_decomp) | Инструменти | Без описание — неясно за какво е. | C++ | ⭐ 346 |
+| 19 | [mille-okws/pestinha](https://github.com/mille-okws/pestinha) | Игри | Виртуален десктоп домашен любимец с невронна мрежа и емоции. | Python | ⭐ 346 |
+| 20 | [ilikechocopies/sideload-jiostb](https://github.com/ilikechocopies/sideload-jiostb) | Инструменти | Ръководство за активиране на ADB на Jio STB през Windows. | Shell | ⭐ 334 |
+| 21 | [a55uka/nup](https://github.com/a55uka/nup) | Игри | Контейнерен формат за некриптирани NX игрови дампове. | Python | ⭐ 331 |
+| 22 | [MythosOfs/Orchid](https://github.com/MythosOfs/Orchid) | Игри | Експериментален емулатор за Nintendo Switch 2. | C++ | ⭐ 323 |
+| 23 | [earendil-works/djs](https://github.com/earendil-works/djs) | Друго | Без описание — неясно за какво е. | Rust | ⭐ 318 |
+| 24 | [shanselman/gputaskman](https://github.com/shanselman/gputaskman) | Инструменти | GPU задач мениджър с VRAM и LLM кеш мониторинг. | Python | ⭐ 311 |
+| 25 | [StewdioAI/blank-page](https://github.com/StewdioAI/blank-page) | Инструменти | Хранилище за expand-motion проект. | Python | ⭐ 311 |
 
-_Нови публични проекти, създадени след 2026-10-30, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-10-31, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-07](digest/2026/11-07.md)
 - [2026-11-06](digest/2026/11-06.md)
 - [2026-11-05](digest/2026/11-05.md)
 - [2026-11-04](digest/2026/11-04.md)
