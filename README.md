@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-08)
+## Днес (2026-11-09)
 
-През последната седмица се наблюдава силно нарастване на инструменти за автоматизация на игри и стрийминг, както и на рамки за AI агенти и изолирани разработвачки среди. Повечето проекти са насочени към оптимизация на мрежовата производителност, приватност и обратен инженерски анализ. Безплатни 3D активи и UI библиотеки също привличат внимание.
+Списъкът съдържа смес от легитимни проекти — порт на Switch игри на Apple Silicon, AI агентски умения, гласен синтезатор, iOS инструменти и мрежови диагностики — и голям брой подозрителни хранилища с "pre-configured environment", "crack" и "2026" в темите, които изглеждат като спам или фалшиви разпространения на комерциален софтуер.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | Инструменти | Ускорява GEO вътрешен Wi-Fi чрез мултиплексиране на TCP и TLS. | Python | ⭐ 720 |
-| 2 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | Друго | Без описание — неясно за какво е. | C | ⭐ 614 |
-| 3 | [fjordostrichhose/Steam-Points-Tools-2026](https://github.com/fjordostrichhose/Steam-Points-Tools-2026) | Инструменти | Десктоп приложение за управление на Steam точки и профил. | Python | ⭐ 426 |
-| 4 | [MuseumCassowaryCarve/twitch-drops-miner](https://github.com/MuseumCassowaryCarve/twitch-drops-miner) | Инструменти | Автоматично събира Twitch drops в фонов режим без видео. | Python | ⭐ 425 |
-| 5 | [Poltergeistlunagrid/Steam-Idler](https://github.com/Poltergeistlunagrid/Steam-Idler) | Инструменти | Идлва Steam игри за карти и игрално време. | Python | ⭐ 425 |
-| 6 | [sentinelsoldierprize/Minecraft-AFK-Bot](https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot) | Игри | Minecraft бот против AFK с уеб табло и автореконект. | Python | ⭐ 425 |
-| 7 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Агенти | Позволява на AI агенти да използват телефона ви. | Go | ⭐ 389 |
-| 8 | [ZSeven-W/dsh-game-studio](https://github.com/ZSeven-W/dsh-game-studio) | Игри | Генерира малки игри от едно изречение с AI арт. | TypeScript | ⭐ 387 |
-| 9 | [lucas-martinic/polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) | Данни | Свободни low-poly 3D модели за уеб и игри. | — | ⭐ 385 |
-| 10 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | Инструменти | Изолиран VM за всеки проект с готова инструментария. | Go | ⭐ 385 |
-| 11 | [sassiestrhihno/boxshelf-beta](https://github.com/sassiestrhihno/boxshelf-beta) | Игри | 3D полица за емулатори, Steam и медия приложения. | — | ⭐ 373 |
-| 12 | [Lucas-blip-png/dkb-pc-recomp](https://github.com/Lucas-blip-png/dkb-pc-recomp) | Игри | Статична рекомпилация на Donkey Kong Bananza за Windows с Vulkan. | C | ⭐ 372 |
-| 13 | [CityPulso/PulsoIcon](https://github.com/CityPulso/PulsoIcon) | Уеб | Анимирани React икони с движения, замяна на lucide-react. | Kotlin | ⭐ 367 |
-| 14 | [yt1988/who-are-you](https://github.com/yt1988/who-are-you) | Сигурност | Проверка на приватност: какви данни събират уебсайтовете за вас. | HTML | ⭐ 355 |
-| 15 | [AkaraChen/cc-remote](https://github.com/AkaraChen/cc-remote) | Агенти | Claude Code с модел на отдалечен хост и локални инструменти. | TypeScript | ⭐ 321 |
-| 16 | [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills) | Агенти | 32 агентски умения за медицинско писане и изследвания. | Python | ⭐ 321 |
-| 17 | [yappologistic/CUI](https://github.com/yappologistic/CUI) | Инструменти | Нативни UI компоненти за C с пружинен движение и клавиатура. | C | ⭐ 319 |
-| 18 | [maluramichael/awesome-reverse-engineer-anything](https://github.com/maluramichael/awesome-reverse-engineer-anything) | Сигурност | Списък с проекти за обратен инженерски анализ и инструменти. | Python | ⭐ 317 |
-| 19 | [fmhyplay/android](https://github.com/fmhyplay/android) | Инструменти | Android TV плеър за стрийминг сайтове с блокиране на реклами. | Java | ⭐ 310 |
-| 20 | [yooma1/qufz](https://github.com/yooma1/qufz) | Сигурност | Предотвратява натрапчивости (китайски: 防止骚扰). | Java | ⭐ 309 |
-| 21 | [Badgenyamultiplexer/pc-game-fps-doctor](https://github.com/Badgenyamultiplexer/pc-game-fps-doctor) | Игри | Диагностира закъснения в игри и предлага поправки за Windows. | JavaScript | ⭐ 307 |
-| 22 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | Инструменти | MCP сървър и CLI за автоматизиране на Windows Sandbox. | JavaScript | ⭐ 303 |
-| 23 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | AI | AI инструментариум за промпт инженеринг и обучение на LLM. | — | ⭐ 302 |
-| 24 | [PaladinDiscriminate/adobe-substance-3d](https://github.com/PaladinDiscriminate/adobe-substance-3d) | Инструменти | Предварително конфигурирана среда за Adobe Substance 3D разгръщане. | — | ⭐ 302 |
-| 25 | [updatesealeradicate/start11](https://github.com/updatesealeradicate/start11) | Инструменти | Предварително конфигурирана среда за инсталация на Start11 утилита. | — | ⭐ 301 |
+| 1 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | Игри | Позволява стартиране на Switch игри нативно на iPhone, iPad и Mac чрез ARM64 и Metal. | C# | ⭐ 1396 |
+| 2 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | Агенти | Колекция от умения за AI агенти от Jane Street. | — | ⭐ 1154 |
+| 3 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | Инструменти | Скрипт за мониторинг на RAM и изпращане на юморни отчети до CEO на OpenAI. | Shell | ⭐ 1119 |
+| 4 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | AI | Гласен синтезатор за пеене, говор и битбокс, написан на Rust. | Rust | ⭐ 971 |
+| 5 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Инструменти | Редактор на MobileGestalt за iOS 27.x с пресетове и бекъпи. | Swift | ⭐ 649 |
+| 6 | [lxe/phoneuse](https://github.com/lxe/phoneuse) | Инструменти | Управление на не модифициран iPhone от Linux през AirPlay и Bluetooth HID. | Python | ⭐ 508 |
+| 7 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Агенти | Агентско умение за анимирани икони в един стил с 2600+ отворени икони. | JavaScript | ⭐ 485 |
+| 8 | [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) | Инструменти | SSH клиент подобен на FinalShell с Go runtime и MyGo UI. | Go | ⭐ 414 |
+| 9 | [PlateParrotTerminal/lag-doctor](https://github.com/PlateParrotTerminal/lag-doctor) | Игри | Монитор за пинг, джитър и загуба на пакети в игри, намира източника на лаг. | Rust | ⭐ 402 |
+| 10 | [PresidentThaw/capcut-for-windows](https://github.com/PresidentThaw/capcut-for-windows) | Друго | Без описание — неясно за какво е. | — | ⭐ 402 |
+| 11 | [WayBuilderDeliver/windows-optimizer](https://github.com/WayBuilderDeliver/windows-optimizer) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
+| 12 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
+| 13 | [Soundplomystery/landr-plugin-bundle](https://github.com/Soundplomystery/landr-plugin-bundle) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
+| 14 | [OnyxAmbassador/actual-multiplie-monitors](https://github.com/OnyxAmbassador/actual-multiplie-monitors) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
+| 15 | [PlaneDiverRevitalize/avid-media-composer](https://github.com/PlaneDiverRevitalize/avid-media-composer) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
+| 16 | [SmartAntRecover/instagram-liker-bot](https://github.com/SmartAntRecover/instagram-liker-bot) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 17 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 18 | [VertexCoppersmith/total-commander](https://github.com/VertexCoppersmith/total-commander) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 19 | [shoregladiatormesh/ifunbox](https://github.com/shoregladiatormesh/ifunbox) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 20 | [Wantfuchannel/whale-tracker](https://github.com/Wantfuchannel/whale-tracker) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 21 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 22 | [Beatzolattice/anyunlock](https://github.com/Beatzolattice/anyunlock) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 23 | [ThornDesigner/quicken-deluxe](https://github.com/ThornDesigner/quicken-deluxe) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 24 | [SuperWarlord/multiaccountmanager](https://github.com/SuperWarlord/multiaccountmanager) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 25 | [FaceAttorney/rust-external-trainer-tool](https://github.com/FaceAttorney/rust-external-trainer-tool) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
 
-_Нови публични проекти, създадени след 2026-11-01, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-02, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-09](digest/2026/11-09.md)
 - [2026-11-08](digest/2026/11-08.md)
 - [2026-11-07](digest/2026/11-07.md)
 - [2026-11-06](digest/2026/11-06.md)
