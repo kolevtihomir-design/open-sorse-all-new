@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-09)
+## Днес (2026-11-10)
 
-Списъкът съдържа смес от легитимни проекти — порт на Switch игри на Apple Silicon, AI агентски умения, гласен синтезатор, iOS инструменти и мрежови диагностики — и голям брой подозрителни хранилища с "pre-configured environment", "crack" и "2026" в темите, които изглеждат като спам или фалшиви разпространения на комерциален софтуер.
+Преобладават подозрителни хранилища за "предварително активирани" 2026 версии на комерсиален софтуер (Adobe, DAW, игри, IDE), които изглеждат като фалшиви/взломани инсталатори. Има и няколко легитимни проекта: iOS инструмент за сигурност, умения за AI екипи и Instagram бот.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | Игри | Позволява стартиране на Switch игри нативно на iPhone, iPad и Mac чрез ARM64 и Metal. | C# | ⭐ 1396 |
-| 2 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | Агенти | Колекция от умения за AI агенти от Jane Street. | — | ⭐ 1154 |
-| 3 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | Инструменти | Скрипт за мониторинг на RAM и изпращане на юморни отчети до CEO на OpenAI. | Shell | ⭐ 1119 |
-| 4 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | AI | Гласен синтезатор за пеене, говор и битбокс, написан на Rust. | Rust | ⭐ 971 |
-| 5 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Инструменти | Редактор на MobileGestalt за iOS 27.x с пресетове и бекъпи. | Swift | ⭐ 649 |
-| 6 | [lxe/phoneuse](https://github.com/lxe/phoneuse) | Инструменти | Управление на не модифициран iPhone от Linux през AirPlay и Bluetooth HID. | Python | ⭐ 508 |
-| 7 | [kubai087/kubai-icons](https://github.com/kubai087/kubai-icons) | Агенти | Агентско умение за анимирани икони в един стил с 2600+ отворени икони. | JavaScript | ⭐ 485 |
-| 8 | [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) | Инструменти | SSH клиент подобен на FinalShell с Go runtime и MyGo UI. | Go | ⭐ 414 |
-| 9 | [PlateParrotTerminal/lag-doctor](https://github.com/PlateParrotTerminal/lag-doctor) | Игри | Монитор за пинг, джитър и загуба на пакети в игри, намира източника на лаг. | Rust | ⭐ 402 |
-| 10 | [PresidentThaw/capcut-for-windows](https://github.com/PresidentThaw/capcut-for-windows) | Друго | Без описание — неясно за какво е. | — | ⭐ 402 |
-| 11 | [WayBuilderDeliver/windows-optimizer](https://github.com/WayBuilderDeliver/windows-optimizer) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
-| 12 | [PurpleChordEvaluate/claude-jailbreak-prompt](https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
-| 13 | [Soundplomystery/landr-plugin-bundle](https://github.com/Soundplomystery/landr-plugin-bundle) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
-| 14 | [OnyxAmbassador/actual-multiplie-monitors](https://github.com/OnyxAmbassador/actual-multiplie-monitors) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
-| 15 | [PlaneDiverRevitalize/avid-media-composer](https://github.com/PlaneDiverRevitalize/avid-media-composer) | Друго | Без описание — неясно за какво е. | — | ⭐ 401 |
-| 16 | [SmartAntRecover/instagram-liker-bot](https://github.com/SmartAntRecover/instagram-liker-bot) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 17 | [OhmUrchinSee/abbyy-finereader-pdf](https://github.com/OhmUrchinSee/abbyy-finereader-pdf) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 18 | [VertexCoppersmith/total-commander](https://github.com/VertexCoppersmith/total-commander) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 19 | [shoregladiatormesh/ifunbox](https://github.com/shoregladiatormesh/ifunbox) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 20 | [Wantfuchannel/whale-tracker](https://github.com/Wantfuchannel/whale-tracker) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 21 | [CartwrightHammer/aomei-backupper](https://github.com/CartwrightHammer/aomei-backupper) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 22 | [Beatzolattice/anyunlock](https://github.com/Beatzolattice/anyunlock) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 23 | [ThornDesigner/quicken-deluxe](https://github.com/ThornDesigner/quicken-deluxe) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 24 | [SuperWarlord/multiaccountmanager](https://github.com/SuperWarlord/multiaccountmanager) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
-| 25 | [FaceAttorney/rust-external-trainer-tool](https://github.com/FaceAttorney/rust-external-trainer-tool) | Друго | Без описание — неясно за какво е. | — | ⭐ 400 |
+| 1 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Сигурност | iOS/iPadOS инструмент за системна конфигурация и MobileGestalt изследване. | Swift | ⭐ 721 |
+| 2 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | Агенти | Ръководство за управление на AI екипи: делегиране, верификация, обучение. | — | ⭐ 496 |
+| 3 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot) | Инструменти | Автоматизиран Instagram бот за лайкове и ангажимент на десктоп. | HTML | ⭐ 482 |
+| 4 | [mahmoudtawfik1998/secure-pdf-document-processor](https://github.com/mahmoudtawfik1998/secure-pdf-document-processor) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 481 |
+| 5 | [shammahcharumbira/universal-neural-injector-center](https://github.com/shammahcharumbira/universal-neural-injector-center) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 481 |
+| 6 | [abhijot11/fabfilter-total](https://github.com/abhijot11/fabfilter-total) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 481 |
+| 7 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | Инструменти | MetaTrader 5 торгів бот с пълни функции за десктоп. | TypeScript | ⭐ 481 |
+| 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | AI | AI система за видео монтаж с JSON анимации и телепромптьор. | HTML | ⭐ 481 |
+| 9 | [thiagoaureliomartins-programador/chief-architect-premier](https://github.com/thiagoaureliomartins-programador/chief-architect-premier) | Друго | Без описание — неясно за какво е. | Rust | ⭐ 481 |
+| 10 | [abdulmannanmalik13-wq/adobe-substance-3d-studio](https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 481 |
+| 11 | [vigilantediurno2-del/microstation-2026-setup](https://github.com/vigilantediurno2-del/microstation-2026-setup) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 12 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 13 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 14 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 15 | [ethangangasingh-crypto/musicmakerunlimited](https://github.com/ethangangasingh-crypto/musicmakerunlimited) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
+| 16 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 17 | [ma7401153-sketch/daemon-pro-installer](https://github.com/ma7401153-sketch/daemon-pro-installer) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
+| 18 | [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 19 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
+| 20 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 21 | [woo20080623-cell/cinebench-desktop](https://github.com/woo20080623-cell/cinebench-desktop) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 22 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | Инструменти | NinjaTrader бот за трейдинг с мощни функции. | HTML | ⭐ 480 |
+| 23 | [SK-Dev666/rust-external-trainer-tool](https://github.com/SK-Dev666/rust-external-trainer-tool) | Игри | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
+| 24 | [shayannazar84-hero/honkai-star-rail-companion-suite](https://github.com/shayannazar84-hero/honkai-star-rail-companion-suite) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 25 | [CodeSouvik/clion-standalone-enhancement](https://github.com/CodeSouvik/clion-standalone-enhancement) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
 
-_Нови публични проекти, създадени след 2026-11-02, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-03, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-10](digest/2026/11-10.md)
 - [2026-11-09](digest/2026/11-09.md)
 - [2026-11-08](digest/2026/11-08.md)
 - [2026-11-07](digest/2026/11-07.md)
