@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-10)
+## Днес (2026-11-11)
 
-Преобладават подозрителни хранилища за "предварително активирани" 2026 версии на комерсиален софтуер (Adobe, DAW, игри, IDE), които изглеждат като фалшиви/взломани инсталатори. Има и няколко легитимни проекта: iOS инструмент за сигурност, умения за AI екипи и Instagram бот.
+_Резюмето не се генерира днес — по-долу са оригиналните описания._
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Сигурност | iOS/iPadOS инструмент за системна конфигурация и MobileGestalt изследване. | Swift | ⭐ 721 |
-| 2 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) | Агенти | Ръководство за управление на AI екипи: делегиране, верификация, обучение. | — | ⭐ 496 |
-| 3 | [AbhramJohn/instagram-engagement-bot](https://github.com/AbhramJohn/instagram-engagement-bot) | Инструменти | Автоматизиран Instagram бот за лайкове и ангажимент на десктоп. | HTML | ⭐ 482 |
-| 4 | [mahmoudtawfik1998/secure-pdf-document-processor](https://github.com/mahmoudtawfik1998/secure-pdf-document-processor) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 481 |
-| 5 | [shammahcharumbira/universal-neural-injector-center](https://github.com/shammahcharumbira/universal-neural-injector-center) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 481 |
-| 6 | [abhijot11/fabfilter-total](https://github.com/abhijot11/fabfilter-total) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 481 |
-| 7 | [RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot) | Инструменти | MetaTrader 5 торгів бот с пълни функции за десктоп. | TypeScript | ⭐ 481 |
-| 8 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system) | AI | AI система за видео монтаж с JSON анимации и телепромптьор. | HTML | ⭐ 481 |
-| 9 | [thiagoaureliomartins-programador/chief-architect-premier](https://github.com/thiagoaureliomartins-programador/chief-architect-premier) | Друго | Без описание — неясно за какво е. | Rust | ⭐ 481 |
-| 10 | [abdulmannanmalik13-wq/adobe-substance-3d-studio](https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 481 |
-| 11 | [vigilantediurno2-del/microstation-2026-setup](https://github.com/vigilantediurno2-del/microstation-2026-setup) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 12 | [SnehalSukale27/power-director](https://github.com/SnehalSukale27/power-director) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 13 | [muddinenilakshmilalithaksh-create/sp-flash-tool](https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 14 | [flgomes/dxo-photolab-10-desktop](https://github.com/flgomes/dxo-photolab-10-desktop) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 15 | [ethangangasingh-crypto/musicmakerunlimited](https://github.com/ethangangasingh-crypto/musicmakerunlimited) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
-| 16 | [shahnawaz0786/payday-3-enhancement-toolkit](https://github.com/shahnawaz0786/payday-3-enhancement-toolkit) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 17 | [ma7401153-sketch/daemon-pro-installer](https://github.com/ma7401153-sketch/daemon-pro-installer) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
-| 18 | [Cybertechbear101/grayket-config](https://github.com/Cybertechbear101/grayket-config) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 19 | [jeevijk/secure-asset-deploy](https://github.com/jeevijk/secure-asset-deploy) | Друго | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
-| 20 | [dikshantghimire321-droid/kontakt-8-config](https://github.com/dikshantghimire321-droid/kontakt-8-config) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 21 | [woo20080623-cell/cinebench-desktop](https://github.com/woo20080623-cell/cinebench-desktop) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 22 | [janitoff0/ninjatrader-bot](https://github.com/janitoff0/ninjatrader-bot) | Инструменти | NinjaTrader бот за трейдинг с мощни функции. | HTML | ⭐ 480 |
-| 23 | [SK-Dev666/rust-external-trainer-tool](https://github.com/SK-Dev666/rust-external-trainer-tool) | Игри | Без описание — неясно за какво е. | TypeScript | ⭐ 480 |
-| 24 | [shayannazar84-hero/honkai-star-rail-companion-suite](https://github.com/shayannazar84-hero/honkai-star-rail-companion-suite) | Игри | Без описание — неясно за какво е. | HTML | ⭐ 480 |
-| 25 | [CodeSouvik/clion-standalone-enhancement](https://github.com/CodeSouvik/clion-standalone-enhancement) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 480 |
+| 1 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | — | Humanoid whole-body motion tracking with one differentiable world model. | Python | ⭐ 923 |
+| 2 | [l-friedrich64709109/fifa-20](https://github.com/l-friedrich64709109/fifa-20) | — | FIFA 20 notes for Windows. A game page with its own preview. | — | ⭐ 878 |
+| 3 | [leanislizarzado/ibm-spss-desktop-suite](https://github.com/leanislizarzado/ibm-spss-desktop-suite) | — | IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration | HTML | ⭐ 768 |
+| 4 | [ayanprob/coreldraw-desktop-installer](https://github.com/ayanprob/coreldraw-desktop-installer) | — | CorelDraw 2026 Professional Desktop Installer with Ready-to-Run Utility Configuration | HTML | ⭐ 768 |
+| 5 | [rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer) | — | Quicken Deluxe Desktop Installer with Full Feature Set Enabled | TypeScript | ⭐ 767 |
+| 6 | [bipro45/actual-multi-display-configurator](https://github.com/bipro45/actual-multi-display-configurator) | — | Multi-Monitor Desktop Configuration Installer with Enhanced Display Options | HTML | ⭐ 767 |
+| 7 | [daiphu2708-crypto/melodyne-5-desktop-setup](https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup) | — | Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set | HTML | ⭐ 767 |
+| 8 | [Eriazeri/on1-photo-raw-max-config](https://github.com/Eriazeri/on1-photo-raw-max-config) | — | on1-photo-raw-max: complete standalone setup with advanced image tools | HTML | ⭐ 767 |
+| 9 | [manjushree-iyer/soundpad-audio-suite](https://github.com/manjushree-iyer/soundpad-audio-suite) | — | Soundpad: Advanced Audio Processing for Professional DAW Workflows | Go | ⭐ 767 |
+| 10 | [Malik-825/sketchup-pro-desktop](https://github.com/Malik-825/sketchup-pro-desktop) | — | Sketchup Pro 2026 Complete Standalone Desktop Setup with All Features Pre-Activated | HTML | ⭐ 767 |
+| 11 | [Forgavin/ultra-iso-desktop-setup](https://github.com/Forgavin/ultra-iso-desktop-setup) | — | Ultra Iso 2026 desktop application with complete standalone setup and all features pre-configured fo | HTML | ⭐ 767 |
+| 12 | [angelonyn/chimera-desktop-suite](https://github.com/angelonyn/chimera-desktop-suite) | — | Chimera: Pre-configured Desktop Utility Suite with Full Installer | HTML | ⭐ 767 |
+| 13 | [arthurrossetocampos1-crypto/uttorent-desktop](https://github.com/arthurrossetocampos1-crypto/uttorent-desktop) | — | Uttorent 2026: Desktop Installer for Seamless Torrent Management | HTML | ⭐ 767 |
+| 14 | [Leno27-Adr/autodesk-revit-2026-standalone](https://github.com/Leno27-Adr/autodesk-revit-2026-standalone) | — | Autodesk Revit 2026 Complete Standalone Setup for Desktop | HTML | ⭐ 767 |
+| 15 | [pastebin2019/multiaccountmanager-enhancement](https://github.com/pastebin2019/multiaccountmanager-enhancement) | — | Multiaccountmanager 2026: Complete Standalone Setup, Fully Pre-Activated, Ready to Install | HTML | ⭐ 767 |
+| 16 | [hayfa1234/honkai-star-rail-enhancement-suite](https://github.com/hayfa1234/honkai-star-rail-enhancement-suite) | — | Honkai Star Rail 2026: Pre-Activated Standalone Desktop Edition, Ready to Run | HTML | ⭐ 767 |
+| 17 | [theonlyoneexocctical-beep/cellebrite-ufed-setup](https://github.com/theonlyoneexocctical-beep/cellebrite-ufed-setup) | — | Cellebrite UFED 2026 Standalone Desktop Setup with Pre-Configured Feature Set | HTML | ⭐ 767 |
+| 18 | [AleRibeiro44/archicad-desktop-setup](https://github.com/AleRibeiro44/archicad-desktop-setup) | — | Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build | HTML | ⭐ 767 |
+| 19 | [App-MonicaWEB/auslogics-audio-studio-desktop](https://github.com/App-MonicaWEB/auslogics-audio-studio-desktop) | — | Auslogics Audio Studio 2026 Desktop Edition: Pre-Activated Standalone Setup | HTML | ⭐ 767 |
+| 20 | [tianjanahary05-source/reason-14-installer](https://github.com/tianjanahary05-source/reason-14-installer) | — | reason-14: Full Working Installer for Professional Desktop Software, Ready to Run in 2026 | HTML | ⭐ 767 |
+| 21 | [RafliAbdulHaliim/sylenth-1-enhancement-suite](https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite) | — | Sylenth 1 configuration utility: standalone desktop setup, ready to run | HTML | ⭐ 767 |
+| 22 | [xavier442/pump-fun-desktop](https://github.com/xavier442/pump-fun-desktop) | — | Pump Fun 2026: Complete Desktop Utility Setup with Pre-Activated Features | HTML | ⭐ 767 |
+| 23 | [Marcian15350/robux-generator-enhancement](https://github.com/Marcian15350/robux-generator-enhancement) | — | Robux-Generator: Full Installer, All Features Activated, Desktop-Ready | TypeScript | ⭐ 767 |
+| 24 | [JasonCharb/directory-opus](https://github.com/JasonCharb/directory-opus) | — | directory-opus: complete standalone desktop setup with all features pre-enabled, ready to run | HTML | ⭐ 766 |
+| 25 | [shivsupratik/windows-optimizer](https://github.com/shivsupratik/windows-optimizer) | — | Windows Optimizer: Advanced System Tweaks and Performance Enhancements | HTML | ⭐ 766 |
 
-_Нови публични проекти, създадени след 2026-11-03, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-04, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-11](digest/2026/11-11.md)
 - [2026-11-10](digest/2026/11-10.md)
 - [2026-11-09](digest/2026/11-09.md)
 - [2026-11-08](digest/2026/11-08.md)
