@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-13)
+## Днес (2026-11-14)
 
-Това седмица доминират проекти за AI агенти и сътрудничество (agentes-chat), самохоствани медия сървъри (HolyArrs) и портове на игри чрез статична рекомпилация. Същевременно се наблюдава голям брой подозрителни „десктоп инсталатори“ за комерсиален софтуер с теми като crack/keygen, които вероятно са неофициални разпространители.
+Тази седмица се наблюдава голям интерес към AI модели и агентски умности, както и към разработвачески инструменти за крос-платформени приложения. Публикувани са проекти за сигурност, включващи експлоити и защита на поверителността. Нови уеб компоненти и утилити за медия и сканиране също привличат внимание.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | Агенти | Open-source Slack алтернатива за екипи и AI агенти в канали и DM. | TypeScript | ⭐ 1275 |
-| 2 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | AI | Apex Neural Rendering — библиотека за невронно рендеринг на C++. | C++ | ⭐ 1229 |
-| 3 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | AI | Приватни AI бележки от срещи, безплатен и open-source Electron апликация. | TypeScript | ⭐ 1130 |
-| 4 | [braazo/systemcare-pro](https://github.com/braazo/systemcare-pro) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1102 |
-| 5 | [FarhanNaem/startall-back](https://github.com/FarhanNaem/startall-back) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1102 |
-| 6 | [marorateb/burning-studio-desktop](https://github.com/marorateb/burning-studio-desktop) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1102 |
-| 7 | [pravinpote1985/serato-dj-pro-2026](https://github.com/pravinpote1985/serato-dj-pro-2026) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1102 |
-| 8 | [Paulinho182/hitfilm-desktop-installer](https://github.com/Paulinho182/hitfilm-desktop-installer) | Инструменти | Без описание — неясно за какво е. | TypeScript | ⭐ 1098 |
-| 9 | [Sakshimodi14/fonepaw-unlocker-setup](https://github.com/Sakshimodi14/fonepaw-unlocker-setup) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1070 |
-| 10 | [Pereira001/dlss5-manager](https://github.com/Pereira001/dlss5-manager) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1067 |
-| 11 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Уеб | Едно самохоствано приложение за сериали, филми и музика. | Go | ⭐ 1039 |
-| 12 | [vnaurudo/php-storm-desktop-setup](https://github.com/vnaurudo/php-storm-desktop-setup) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1033 |
-| 13 | [GUFRAN7998/passfab-unlocker-desktop](https://github.com/GUFRAN7998/passfab-unlocker-desktop) | Сигурност | Без описание — неясно за какво е. | HTML | ⭐ 1006 |
-| 14 | [utkarshryanite25-a11y/sony-vegas-pro-desktop](https://github.com/utkarshryanite25-a11y/sony-vegas-pro-desktop) | Инструменти | Без описание — неясно за какво е. | TypeScript | ⭐ 1005 |
-| 15 | [harikumar35626-hash/wondshare-recoverit](https://github.com/harikumar35626-hash/wondshare-recoverit) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 1001 |
-| 16 | [Goblinmine/homelab-diagram](https://github.com/Goblinmine/homelab-diagram) | Инструменти | Рендерира мрежова диаграма в стил r/homelab от YAML инвентар. | Python | ⭐ 966 |
-| 17 | [sghnnnn01212-cmyk/data-grip-desktop](https://github.com/sghnnnn01212-cmyk/data-grip-desktop) | Инструменти | Без описание — неясно за какво е. | TypeScript | ⭐ 894 |
-| 18 | [Mistercat12/dvd-creator-setup](https://github.com/Mistercat12/dvd-creator-setup) | Инструменти | Без описание — неясно за какво е. | HTML | ⭐ 796 |
-| 19 | [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) | Инструменти | Файлов браузър и мениджър на данни за iOS 26/27 без джейлбрейк. | Objective-C | ⭐ 779 |
-| 20 | [Gloridust/WowType](https://github.com/Gloridust/WowType) | Инструменти | Linux входен метод с офлайн гласов вход и реално превод. | Rust | ⭐ 761 |
-| 21 | [serveroshq/panel](https://github.com/serveroshq/panel) | Инструменти | Open-source контролен панел за управление на Linux сървъри. | PHP | ⭐ 696 |
-| 22 | [Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp) | Игри | Нативен Windows порт на Fire Emblem чрез статична рекомпилация. | C++ | ⭐ 687 |
-| 23 | [alexeyw/lot-map](https://github.com/alexeyw/lot-map) | Агенти | Карта в реално време за дейностите на Claude Code в чата. | TypeScript | ⭐ 679 |
-| 24 | [adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp) | Игри | Статична рекомпилация на Mario Kart World за нативен PC старт. | C | ⭐ 636 |
-| 25 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | Уеб | TypeScript библиотека за анимирани SVG линейни илюстрации. | TypeScript | ⭐ 626 |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | AI | Демо чат приложение за тестване на AI модели. | TypeScript | ⭐ 1393 |
+| 2 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | Инструменти | Лесен преносим GUI редактор за FFmpeg под Windows. | Visual Basic .NET | ⭐ 1040 |
+| 3 | [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query) | Сигурност | Избягване на песочница за iOS 26 и 27. | Objective-C | ⭐ 623 |
+| 4 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | Образование | Крос-платформен проект за практика с Tauri 2 интерфейс. | TypeScript | ⭐ 574 |
+| 5 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | Уеб | Отворен Dynamic Island компонент за React с shadcn. | TypeScript | ⭐ 554 |
+| 6 | [makepad/relax](https://github.com/makepad/relax) | Инструменти | Rust JIT компилатор за бързо изпълнение. | Rust | ⭐ 522 |
+| 7 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | Инструменти | Крос-платформен клиент за HGhub на macOS и iOS. | — | ⭐ 515 |
+| 8 | [Robbyant/lingbot-touch](https://github.com/Robbyant/lingbot-touch) | AI | Обучение на тактилно представяне за дехтерозна манипулация. | Python | ⭐ 513 |
+| 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | Агенти | Агентска умност за хуманизиране на AI текст. | Python | ⭐ 499 |
+| 10 | [luobinger/PerkRadar](https://github.com/luobinger/PerkRadar) | Инструменти | Самохостнат агрегатор на оферти и безплатни продукти. | TypeScript | ⭐ 494 |
+| 11 | [21stware/bowel](https://github.com/21stware/bowel) | Инструменти | Mihomo прокси клиент за множество операционни системи. | Go | ⭐ 491 |
+| 12 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | Инструменти | Сървърлес runtime за Cloudflare Workers на различни облаци. | TypeScript | ⭐ 488 |
+| 13 | [paulirish/chrome-capture](https://github.com/paulirish/chrome-capture) | Инструменти | Запис на видео и аудио от Chrome раздели. | TypeScript | ⭐ 444 |
+| 14 | [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) | Инструменти | Стартиране на реален Linux ядро на iOS. | C++ | ⭐ 441 |
+| 15 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | Инструменти | Експериментален 3D скенер и преглед на точкови облаци. | Kotlin | ⭐ 438 |
+| 16 | [linknimiball1974/ai-texture-forge](https://github.com/linknimiball1974/ai-texture-forge) | AI | AI инструмент за генериране на PBR текстури в Blender. | — | ⭐ 433 |
+| 17 | [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma) | Инструменти | Рамка за отдалечен протокол за ботове. | TypeScript | ⭐ 426 |
+| 18 | [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) | Инструменти | Chrome разширение за преглед на минали твитове. | JavaScript | ⭐ 414 |
+| 19 | [failsafe-security/artex](https://github.com/failsafe-security/artex) | Сигурност | Локално свързан FailSafe дистрибутив на ARTEX. | Go | ⭐ 401 |
+| 20 | [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop) | Сигурност | 0day уязвимост за локално повишаване на привилегии в Windows. | C | ⭐ 371 |
+| 21 | [aronhy/pibrowse](https://github.com/aronhy/pibrowse) | Инструменти | Отворен браузър за управление на профили и работни пространства. | TypeScript | ⭐ 366 |
+| 22 | [lizTheDeveloper/flyover-scrub](https://github.com/lizTheDeveloper/flyover-scrub) | Сигурност | Премахване на Доплерови подписи от полети за поверителност. | Python | ⭐ 362 |
+| 23 | [xiaoerofficial021-collab/FlowHMR-Windows](https://github.com/xiaoerofficial021-collab/FlowHMR-Windows) | Инструменти | Windows приложение за видео motion capture и 3D преглед. | Python | ⭐ 362 |
+| 24 | [MiniMax-AI/MiniMax-H3-Image](https://github.com/MiniMax-AI/MiniMax-H3-Image) | AI | Отворен модел за генерация и редактиране на 16MP изображения. | Python | ⭐ 350 |
+| 25 | [djyde/dalibre](https://github.com/djyde/dalibre) | Инструменти | Лека алтернатива на Calibre за управление на е-книги. | Go | ⭐ 348 |
 
-_Нови публични проекти, създадени след 2026-11-06, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-07, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-14](digest/2026/11-14.md)
 - [2026-11-13](digest/2026/11-13.md)
 - [2026-11-12](digest/2026/11-12.md)
 - [2026-11-11](digest/2026/11-11.md)
