@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-14)
+## Днес (2026-11-15)
 
-Тази седмица се наблюдава голям интерес към AI модели и агентски умности, както и към разработвачески инструменти за крос-платформени приложения. Публикувани са проекти за сигурност, включващи експлоити и защита на поверителността. Нови уеб компоненти и утилити за медия и сканиране също привличат внимание.
+През последната седмица се наблюдава голям брой форкове на популярни проекти за IPTV плеър, GitHub Copilot десктоп приложение и AI Manus агентска система. Появяват се и инструменти за защита на поверителността на Android и визуален уеб експеримент с WebGPU. Тенденцията е към разпространение на съществуващи решения чрез множество копия.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | AI | Демо чат приложение за тестване на AI модели. | TypeScript | ⭐ 1393 |
-| 2 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | Инструменти | Лесен преносим GUI редактор за FFmpeg под Windows. | Visual Basic .NET | ⭐ 1040 |
-| 3 | [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query) | Сигурност | Избягване на песочница за iOS 26 и 27. | Objective-C | ⭐ 623 |
-| 4 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | Образование | Крос-платформен проект за практика с Tauri 2 интерфейс. | TypeScript | ⭐ 574 |
-| 5 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | Уеб | Отворен Dynamic Island компонент за React с shadcn. | TypeScript | ⭐ 554 |
-| 6 | [makepad/relax](https://github.com/makepad/relax) | Инструменти | Rust JIT компилатор за бързо изпълнение. | Rust | ⭐ 522 |
-| 7 | [LNPANDY/HGhub-MacOS-iOS-Version](https://github.com/LNPANDY/HGhub-MacOS-iOS-Version) | Инструменти | Крос-платформен клиент за HGhub на macOS и iOS. | — | ⭐ 515 |
-| 8 | [Robbyant/lingbot-touch](https://github.com/Robbyant/lingbot-touch) | AI | Обучение на тактилно представяне за дехтерозна манипулация. | Python | ⭐ 513 |
-| 9 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | Агенти | Агентска умност за хуманизиране на AI текст. | Python | ⭐ 499 |
-| 10 | [luobinger/PerkRadar](https://github.com/luobinger/PerkRadar) | Инструменти | Самохостнат агрегатор на оферти и безплатни продукти. | TypeScript | ⭐ 494 |
-| 11 | [21stware/bowel](https://github.com/21stware/bowel) | Инструменти | Mihomo прокси клиент за множество операционни системи. | Go | ⭐ 491 |
-| 12 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | Инструменти | Сървърлес runtime за Cloudflare Workers на различни облаци. | TypeScript | ⭐ 488 |
-| 13 | [paulirish/chrome-capture](https://github.com/paulirish/chrome-capture) | Инструменти | Запис на видео и аудио от Chrome раздели. | TypeScript | ⭐ 444 |
-| 14 | [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium) | Инструменти | Стартиране на реален Linux ядро на iOS. | C++ | ⭐ 441 |
-| 15 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | Инструменти | Експериментален 3D скенер и преглед на точкови облаци. | Kotlin | ⭐ 438 |
-| 16 | [linknimiball1974/ai-texture-forge](https://github.com/linknimiball1974/ai-texture-forge) | AI | AI инструмент за генериране на PBR текстури в Blender. | — | ⭐ 433 |
-| 17 | [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma) | Инструменти | Рамка за отдалечен протокол за ботове. | TypeScript | ⭐ 426 |
-| 18 | [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) | Инструменти | Chrome разширение за преглед на минали твитове. | JavaScript | ⭐ 414 |
-| 19 | [failsafe-security/artex](https://github.com/failsafe-security/artex) | Сигурност | Локално свързан FailSafe дистрибутив на ARTEX. | Go | ⭐ 401 |
-| 20 | [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop) | Сигурност | 0day уязвимост за локално повишаване на привилегии в Windows. | C | ⭐ 371 |
-| 21 | [aronhy/pibrowse](https://github.com/aronhy/pibrowse) | Инструменти | Отворен браузър за управление на профили и работни пространства. | TypeScript | ⭐ 366 |
-| 22 | [lizTheDeveloper/flyover-scrub](https://github.com/lizTheDeveloper/flyover-scrub) | Сигурност | Премахване на Доплерови подписи от полети за поверителност. | Python | ⭐ 362 |
-| 23 | [xiaoerofficial021-collab/FlowHMR-Windows](https://github.com/xiaoerofficial021-collab/FlowHMR-Windows) | Инструменти | Windows приложение за видео motion capture и 3D преглед. | Python | ⭐ 362 |
-| 24 | [MiniMax-AI/MiniMax-H3-Image](https://github.com/MiniMax-AI/MiniMax-H3-Image) | AI | Отворен модел за генерация и редактиране на 16MP изображения. | Python | ⭐ 350 |
-| 25 | [djyde/dalibre](https://github.com/djyde/dalibre) | Инструменти | Лека алтернатива на Calibre за управление на е-книги. | Go | ⭐ 348 |
+| 1 | [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) | Сигурност | Инструмент за изчистване на системни модули за събиране на данни в Android без root. | Kotlin | ⭐ 821 |
+| 2 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Инструменти | Изследване на протокола за регистрация и покани на muse.ai на Python. | Python | ⭐ 756 |
+| 3 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | Уеб | Интерактивен подводен свят в браузър, генериран изцяло с код и WebGPU. | JavaScript | ⭐ 690 |
+| 4 | [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | Агенти | Общоназначен AI агент за стартиране на инструменти в изолирана среда. | — | ⭐ 678 |
+| 5 | [WarriorRemember/IPTV_Player_2.0](https://github.com/WarriorRemember/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 673 |
+| 6 | [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 672 |
+| 7 | [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 670 |
+| 8 | [TurquoiseDetective/IPTV_Player_2.0](https://github.com/TurquoiseDetective/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 669 |
+| 9 | [tornadonovicewhirl40/IPTV_Player_2.0](https://github.com/tornadonovicewhirl40/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 669 |
+| 10 | [WattBeetleLearn/IPTV_Player_2.0](https://github.com/WattBeetleLearn/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 667 |
+| 11 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | Агенти | Общоназначен AI агент за стартиране на инструменти в изолирана среда. | — | ⭐ 666 |
+| 12 | [toppatronweave/GitHub-Copilot-app](https://github.com/toppatronweave/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 666 |
+| 13 | [Trapbraneedle/IPTV_Player_2.0](https://github.com/Trapbraneedle/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 666 |
+| 14 | [trackersnailgrip/GitHub-Copilot-app](https://github.com/trackersnailgrip/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 666 |
+| 15 | [Titanlushrink/IPTV_Player_2.0](https://github.com/Titanlushrink/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 665 |
+| 16 | [TradesmanRecord/GitHub-Copilot-app](https://github.com/TradesmanRecord/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 665 |
+| 17 | [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) | Агенти | Общоназначен AI агент за стартиране на инструменти в изолирана среда. | — | ⭐ 665 |
+| 18 | [Torusdrasocket/IPTV_Player_2.0](https://github.com/Torusdrasocket/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 665 |
+| 19 | [TowerStalker/IPTV_Player_2.0](https://github.com/TowerStalker/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 665 |
+| 20 | [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 664 |
+| 21 | [TurquoiseConsultant/GitHub-Copilot-app](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 664 |
+| 22 | [TrapBladesmith/GitHub-Copilot-app](https://github.com/TrapBladesmith/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 664 |
+| 23 | [WebBookkeeper/GitHub-Copilot-app](https://github.com/WebBookkeeper/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 663 |
+| 24 | [Tealplesense/GitHub-Copilot-app](https://github.com/Tealplesense/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 663 |
+| 25 | [Tornadovonmodify/IPTV_Player_2.0](https://github.com/Tornadovonmodify/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 663 |
 
-_Нови публични проекти, създадени след 2026-11-07, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-08, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-15](digest/2026/11-15.md)
 - [2026-11-14](digest/2026/11-14.md)
 - [2026-11-13](digest/2026/11-13.md)
 - [2026-11-12](digest/2026/11-12.md)
