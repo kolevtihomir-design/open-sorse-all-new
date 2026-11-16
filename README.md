@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-15)
+## Днес (2026-11-16)
 
-През последната седмица се наблюдава голям брой форкове на популярни проекти за IPTV плеър, GitHub Copilot десктоп приложение и AI Manus агентска система. Появяват се и инструменти за защита на поверителността на Android и визуален уеб експеримент с WebGPU. Тенденцията е към разпространение на съществуващи решения чрез множество копия.
+Тази седмица доминират AI агенти за 3D моделиране в Blender — над 10 нови адона с MCP интеграция и мулти-агентни работни потоци. Появяват се и инструменти за видео клипване, TTS модели, браузъри и множество скенери за Gemini прокси конфигурации.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) | Сигурност | Инструмент за изчистване на системни модули за събиране на данни в Android без root. | Kotlin | ⭐ 821 |
-| 2 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Инструменти | Изследване на протокола за регистрация и покани на muse.ai на Python. | Python | ⭐ 756 |
-| 3 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | Уеб | Интерактивен подводен свят в браузър, генериран изцяло с код и WebGPU. | JavaScript | ⭐ 690 |
-| 4 | [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | Агенти | Общоназначен AI агент за стартиране на инструменти в изолирана среда. | — | ⭐ 678 |
-| 5 | [WarriorRemember/IPTV_Player_2.0](https://github.com/WarriorRemember/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 673 |
-| 6 | [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 672 |
-| 7 | [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 670 |
-| 8 | [TurquoiseDetective/IPTV_Player_2.0](https://github.com/TurquoiseDetective/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 669 |
-| 9 | [tornadonovicewhirl40/IPTV_Player_2.0](https://github.com/tornadonovicewhirl40/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 669 |
-| 10 | [WattBeetleLearn/IPTV_Player_2.0](https://github.com/WattBeetleLearn/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 667 |
-| 11 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | Агенти | Общоназначен AI агент за стартиране на инструменти в изолирана среда. | — | ⭐ 666 |
-| 12 | [toppatronweave/GitHub-Copilot-app](https://github.com/toppatronweave/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 666 |
-| 13 | [Trapbraneedle/IPTV_Player_2.0](https://github.com/Trapbraneedle/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 666 |
-| 14 | [trackersnailgrip/GitHub-Copilot-app](https://github.com/trackersnailgrip/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 666 |
-| 15 | [Titanlushrink/IPTV_Player_2.0](https://github.com/Titanlushrink/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 665 |
-| 16 | [TradesmanRecord/GitHub-Copilot-app](https://github.com/TradesmanRecord/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 665 |
-| 17 | [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) | Агенти | Общоназначен AI агент за стартиране на инструменти в изолирана среда. | — | ⭐ 665 |
-| 18 | [Torusdrasocket/IPTV_Player_2.0](https://github.com/Torusdrasocket/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 665 |
-| 19 | [TowerStalker/IPTV_Player_2.0](https://github.com/TowerStalker/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 665 |
-| 20 | [TurkeyDesignate/GitHub-Copilot-app](https://github.com/TurkeyDesignate/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 664 |
-| 21 | [TurquoiseConsultant/GitHub-Copilot-app](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 664 |
-| 22 | [TrapBladesmith/GitHub-Copilot-app](https://github.com/TrapBladesmith/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 664 |
-| 23 | [WebBookkeeper/GitHub-Copilot-app](https://github.com/WebBookkeeper/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 663 |
-| 24 | [Tealplesense/GitHub-Copilot-app](https://github.com/Tealplesense/GitHub-Copilot-app) | Инструменти | Десктоп приложение за GitHub Copilot, интегрирано с агенти за управление на код. | — | ⭐ 663 |
-| 25 | [Tornadovonmodify/IPTV_Player_2.0](https://github.com/Tornadovonmodify/IPTV_Player_2.0) | Инструменти | Мощен IPTV плеър с поддръжка на M3U плейлисти и EPG за множество платформи. | Rust | ⭐ 663 |
+| 1 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | Агенти | AI асистент и MCP сървър за Blender с визуален чат и мулти-агентни работни потоци. | — | ⭐ 1927 |
+| 2 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | Инструменти | Агрегатор безплатни ресурси от 100+ източника с AI филтриране и Telegram известия. | TypeScript | ⭐ 1019 |
+| 3 | [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill) | Агенти | Агентска умение за наръчвани кинематични филми от код: камера над снимки и карти. | Python | ⭐ 572 |
+| 4 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | Инструменти | AI клипване на дълги видеа и потоци, самохостнат с собствен AI ключ. | Python | ⭐ 528 |
+| 5 | [yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab) | Уеб | Бърз нативен macOS браузър с сателитни приложения за iPhone и Android. | Swift | ⭐ 518 |
+| 6 | [credoksopho1984/blender-ai-copilot-studio](https://github.com/credoksopho1984/blender-ai-copilot-studio) | Агенти | AI копилот и MCP сървър за Blender с визуален чат студио и 27 сценични инструмента. | — | ⭐ 514 |
+| 7 | [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca) | AI | 4.5M параметров TTS модел за два гласа на английски, обучен от нулата. | Python | ⭐ 514 |
+| 8 | [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | Агенти | AI асистент и MCP сървър за Blender с визуален работен prostor и мулти-агентни екипи. | — | ⭐ 512 |
+| 9 | [tiobeharxi1987/blender-ai-copilot-flow](https://github.com/tiobeharxi1987/blender-ai-copilot-flow) | Агенти | Контролиран AI работен процес за Blender: всеки реда е надгледан инструментален извикване. | — | ⭐ 512 |
+| 10 | [zovulrira1974/blender-ai-copilot-assets](https://github.com/zovulrira1974/blender-ai-copilot-assets) | Агенти | AI копилот за Blender с търсене на асети от Poly Haven, Sketchfab, Poly Pizza. | — | ⭐ 508 |
+| 11 | [Doug-218/blender-ai-copilot-forge](https://github.com/Doug-218/blender-ai-copilot-forge) | Агенти | AI копилот за изграждане на сцени в Blender: примитиви, камери, светлини, материали. | — | ⭐ 508 |
+| 12 | [precygtrucqui1981/blender-ai-copilot-lab](https://github.com/precygtrucqui1981/blender-ai-copilot-lab) | Агенти | AI лаборатория за Blender с мениджър-работник-рецензент екипи и жива дъска за задачи. | — | ⭐ 506 |
+| 13 | [fumbdendade19718/blender-ai-copilot-desk](https://github.com/fumbdendade19718/blender-ai-copilot-desk) | Агенти | Визуален AI бюро за Blender: чат, обекти, снимки на viewport, одобрения и дъска. | — | ⭐ 503 |
+| 14 | [baiblinocun1986/blender-ai-copilot-hub](https://github.com/baiblinocun1986/blender-ai-copilot-hub) | Агенти | Мулти-провайдър AI копилот хъб за Blender: OpenAI, Claude, Gemini, Ollama и др. | — | ⭐ 501 |
+| 15 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | Инструменти | GPU канвас за хиляди живи DOM узли: редактор, шейдъри, преходи и AI агент. | TypeScript | ⭐ 501 |
+| 16 | [findavoulot1973/Blender-AI-MCP-Suite](https://github.com/findavoulot1973/Blender-AI-MCP-Suite) | Агенти | AI асистент и MCP сървър за Blender с визуален студио и 21+ сценични инструмента. | — | ⭐ 497 |
+| 17 | [benzgasfuncring197110/blender-ai-copilot-bridge](https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge) | Агенти | MCP мост за Blender: излага 27 надгледжани инструмента към OpenCode и клиенти. | — | ⭐ 491 |
+| 18 | [higurashi-ai/Haru](https://github.com/higurashi-ai/Haru) | AI | Haru: модел за говорен диалог с ниска латентност, мултиезичен и full-duplex. | Python | ⭐ 483 |
+| 19 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Makefile | ⭐ 474 |
+| 20 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
+| 21 | [WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
+| 22 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Go | ⭐ 473 |
+| 23 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
+| 24 | [WindowStaffGate11/Gemini-Config-Checker-](https://github.com/WindowStaffGate11/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
+| 25 | [WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации за достъп до Google AI Studio и Gemini. | Go | ⭐ 473 |
 
-_Нови публични проекти, създадени след 2026-11-08, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-09, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-16](digest/2026/11-16.md)
 - [2026-11-15](digest/2026/11-15.md)
 - [2026-11-14](digest/2026/11-14.md)
 - [2026-11-13](digest/2026/11-13.md)
