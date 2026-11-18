@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-17)
+## Днес (2026-11-18)
 
-Тази седмица трендът е към AI инструменти и агенти — оптимизация на LLM инференция, достъп до Gemini чрез прокси чекъри, и офлайн знания за преживяване. Появяват се полезни утилити за разработчици: монитор на батерия, шрифт, ray-tracing движок и мултиплатформен мениджър за социални медии.
+Тази седмица най-бързо набират звезди проекти за AI агенти и техните умения, инструменти за миграция на код към Rust, дистанционно управление на Mac от мобилни устройства, както и множество десктоп инсталатори на комерсиален софтуер. Вижда се нарастване на open-source OSINT и сигурностови утилити, плюс рекомпилации на класически игри.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | Инструменти | Показва батерията на безжични мишки, клавиатури и контролери в системния трей на Windows. | C++ | ⭐ 1401 |
-| 2 | [Immortal-Protocols/lastbook](https://github.com/Immortal-Protocols/lastbook) | AI | Офлайн AI знания, карти и видеа за преживяване и възстановяване на цивилизацията. | Python | ⭐ 1208 |
-| 3 | [CzzzzzzJ/mdldm-maitian](https://github.com/CzzzzzzJ/mdldm-maitian) | Инструменти | Мултиплатформен инструмент за публикуване и мониторинг на социални медии с Feishu уведомления и дашборд. | JavaScript | ⭐ 811 |
-| 4 | [joshpuckett/allo](https://github.com/joshpuckett/allo) | Друго | Свободен отворен шрифт Allo за общоупотребителско ползване. | Python | ⭐ 706 |
-| 5 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Агенти | Агентска умност за оптимизация на скоростта на локално LLM инференция на всяко хардуерно обезавление. | Python | ⭐ 614 |
-| 6 | [mit-han-lab/pear](https://github.com/mit-han-lab/pear) | AI | Обучение на модели за рассуждаване в симулация за директна работа с реални роботи. | Python | ⭐ 593 |
-| 7 | [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom) | Инструменти | Превключва API ключ в вход за Claude Desktop, отключва пълна функционалност без акаунт. | Rust | ⭐ 580 |
-| 8 | [meshy-dev/ThreeRT](https://github.com/meshy-dev/ThreeRT) | Игри | Реално-времевен path tracer с three.js API, базиран на Rust и wgpu за уеб графика. | TypeScript | ⭐ 548 |
-| 9 | [huggingface/pybot](https://github.com/huggingface/pybot) | Агенти | Чатбот на чист Python, създаден от рой агенти, без тегла и обучение. | Python | ⭐ 497 |
-| 10 | [TensaikunYT/Videohub](https://github.com/TensaikunYT/Videohub) | Уеб | Без описание — неясно за какво е. | JavaScript | ⭐ 494 |
-| 11 | [Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Go | ⭐ 473 |
-| 12 | [TrooperFilter/Gemini-Config-Checker-](https://github.com/TrooperFilter/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 13 | [wisemeadowlarkspike/Gemini-Config-Checker-](https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Go | ⭐ 473 |
-| 14 | [Watchlespeed/Gemini-Config-Checker-](https://github.com/Watchlespeed/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 15 | [VortexHostFeel/Gemini-Config-Checker-](https://github.com/VortexHostFeel/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 16 | [TypeTyrantScheme/Gemini-Config-Checker-](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 17 | [WingDataVacuum/Gemini-Config-Checker-](https://github.com/WingDataVacuum/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 18 | [WireProvostPucker/Gemini-Config-Checker-](https://github.com/WireProvostPucker/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 19 | [VisionWormStudio/Gemini-Config-Checker-](https://github.com/VisionWormStudio/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Go | ⭐ 473 |
-| 20 | [WestLocksmithSpout/Gemini-Config-Checker-](https://github.com/WestLocksmithSpout/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Go | ⭐ 473 |
-| 21 | [WharfBoulderColander/Gemini-Config-Checker-](https://github.com/WharfBoulderColander/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 22 | [weightcashiercupola/Gemini-Config-Checker-](https://github.com/weightcashiercupola/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 23 | [Visionbeyondtrack/Gemini-Config-Checker-](https://github.com/Visionbeyondtrack/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 24 | [WinnerSpecialist/Gemini-Config-Checker-](https://github.com/WinnerSpecialist/Gemini-Config-Checker-) | Инструменти | Скенер за прокси конфигурации, позволяващи достъп до Google AI Studio и Gemini. | Makefile | ⭐ 473 |
-| 25 | [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) | Инструменти | Инструмент за реално-времево насочване и сътрудничество върху идеи. | HTML | ⭐ 471 |
+| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Инструменти | Инструмент за поетапна миграция на код към Rust с проверка на поведението. | Rust | ⭐ 2545 |
+| 2 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Сигурност | Еднократен инструмент за извличане на пароли от UNG220Z рутер. | Python | ⭐ 873 |
+| 3 | [zephyr4123/snug](https://github.com/zephyr4123/snug) | Инструменти | Приложение за дистанционно управление на Mac от iPhone с нативен UX. | Swift | ⭐ 808 |
+| 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | Агенти | Колекция от 32 маркетингови умения за AI агенти. | Python | ⭐ 621 |
+| 5 | [Illson/RustText](https://github.com/Illson/RustText) | Друго | Без описание — неясно за какво е. | Rust | ⭐ 537 |
+| 6 | [quer3q/kraken-mount](https://github.com/quer3q/kraken-mount) | Игри | Минималистичен мounter за PS5 игри с поддръжка на PKG и компресия. | Rust | ⭐ 504 |
+| 7 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | Агенти | AI инструмент за OSINT разследвания с източници за всеки извод. | JavaScript | ⭐ 454 |
+| 8 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | Агенти | Agent Skill за дизайн на игри, базиран на субтитрите на Сакурай. | Python | ⭐ 451 |
+| 9 | [oneamendez/crate-ios](https://github.com/oneamendez/crate-ios) | Инструменти | Стартиране на Linux VM на iPhone и iPad. | Swift | ⭐ 444 |
+| 10 | [pixl27/ProjectReLink](https://github.com/pixl27/ProjectReLink) | Игри | Неофициална PC рекомпилация на Zelda OOT от Switch 2 версия. | C++ | ⭐ 443 |
+| 11 | [krezio/roomy](https://github.com/krezio/roomy) | Инструменти | Инструмент за анализ и почистване на дисково пространство в Windows. | C# | ⭐ 438 |
+| 12 | [AgenticOrgLab/ExecOrchestra](https://github.com/AgenticOrgLab/ExecOrchestra) | Инструменти | Оркестрация и маршрутизация на разнородни ресурси. | Python | ⭐ 429 |
+| 13 | [brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop) | Сигурност | Десктоп инсталатор за Malware Defender 2026 с реално време защита. | C++ | ⭐ 416 |
+| 14 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Друго | Инсталатор за Cubase Studio 2026 с пълна функционалност. | — | ⭐ 415 |
+| 15 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | Друго | Инсталатор за DxO PhotoLab 10 2026 с DeepPRIME XD. | C++ | ⭐ 415 |
+| 16 | [ben14-dunn/native-instruments-kontakt-desktop](https://github.com/ben14-dunn/native-instruments-kontakt-desktop) | Друго | Инсталатор за Native Instruments Kontakt 2026 с библиотеки. | C++ | ⭐ 414 |
+| 17 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Инструменти | Инсталатор за Windows Optimizer 2026 с настройки за производителност. | C++ | ⭐ 413 |
+| 18 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Друго | Инсталатор за Kontakt 8 2026 с скриптовия двигател. | C++ | ⭐ 413 |
+| 19 | [bradburns2001/topaz-video-ai-desktop](https://github.com/bradburns2001/topaz-video-ai-desktop) | Друго | Инсталатор за Topaz Video AI 2026 с AI upscaling. | C++ | ⭐ 413 |
+| 20 | [alex-wells-65/iobit-driver-booster-desktop](https://github.com/alex-wells-65/iobit-driver-booster-desktop) | Инструменти | Инсталатор за iObit Driver Booster 2026 с офлайн драйвери. | C++ | ⭐ 413 |
+| 21 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | Друго | Инсталатор за CorelDraw 2026 с HDR и аудио поддръжка. | C++ | ⭐ 413 |
+| 22 | [brave-shell-07/izotope-rx-11-desktop](https://github.com/brave-shell-07/izotope-rx-11-desktop) | Друго | Инсталатор за iZotope RX 11 2026 с AI аудио ремонт. | C++ | ⭐ 413 |
+| 23 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) | Инструменти | Инсталатор за Wondershare Recoverit 2026 за възстановяване на файлове. | C++ | ⭐ 413 |
+| 24 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Друго | Инсталатор за Adobe Acrobat PDF 2026 с AI асистент. | C++ | ⭐ 412 |
+| 25 | [angela-cook-1988/vegas-pro-23-desktop](https://github.com/angela-cook-1988/vegas-pro-23-desktop) | Друго | Инсталатор за VEGAS Pro 23 2026 за видео монтаж. | C++ | ⭐ 412 |
 
-_Нови публични проекти, създадени след 2026-11-10, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-11, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-18](digest/2026/11-18.md)
 - [2026-11-17](digest/2026/11-17.md)
 - [2026-11-16](digest/2026/11-16.md)
 - [2026-11-15](digest/2026/11-15.md)
