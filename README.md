@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-18)
+## Днес (2026-11-19)
 
-Тази седмица най-бързо набират звезди проекти за AI агенти и техните умения, инструменти за миграция на код към Rust, дистанционно управление на Mac от мобилни устройства, както и множество десктоп инсталатори на комерсиален софтуер. Вижда се нарастване на open-source OSINT и сигурностови утилити, плюс рекомпилации на класически игри.
+Тази седмица се наблюдава силно нарастване на проекти за AI агенти и инструменти за разработчици, включвайки множество клонове на AI Manus и GitHub Copilot. Повечето нови хранилища са за автоматизация на код, сигурност на Android и уеб-технологии като WebAssembly. Също се виждат креативни инструменти за графика, аниме UI и IPTV плеъри.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Инструменти | Инструмент за поетапна миграция на код към Rust с проверка на поведението. | Rust | ⭐ 2545 |
-| 2 | [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | Сигурност | Еднократен инструмент за извличане на пароли от UNG220Z рутер. | Python | ⭐ 873 |
-| 3 | [zephyr4123/snug](https://github.com/zephyr4123/snug) | Инструменти | Приложение за дистанционно управление на Mac от iPhone с нативен UX. | Swift | ⭐ 808 |
-| 4 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | Агенти | Колекция от 32 маркетингови умения за AI агенти. | Python | ⭐ 621 |
-| 5 | [Illson/RustText](https://github.com/Illson/RustText) | Друго | Без описание — неясно за какво е. | Rust | ⭐ 537 |
-| 6 | [quer3q/kraken-mount](https://github.com/quer3q/kraken-mount) | Игри | Минималистичен мounter за PS5 игри с поддръжка на PKG и компресия. | Rust | ⭐ 504 |
-| 7 | [StormBrawlerSack/legwork-osint-ai-investigator](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) | Агенти | AI инструмент за OSINT разследвания с източници за всеки извод. | JavaScript | ⭐ 454 |
-| 8 | [kociden/sakurai-skill](https://github.com/kociden/sakurai-skill) | Агенти | Agent Skill за дизайн на игри, базиран на субтитрите на Сакурай. | Python | ⭐ 451 |
-| 9 | [oneamendez/crate-ios](https://github.com/oneamendez/crate-ios) | Инструменти | Стартиране на Linux VM на iPhone и iPad. | Swift | ⭐ 444 |
-| 10 | [pixl27/ProjectReLink](https://github.com/pixl27/ProjectReLink) | Игри | Неофициална PC рекомпилация на Zelda OOT от Switch 2 версия. | C++ | ⭐ 443 |
-| 11 | [krezio/roomy](https://github.com/krezio/roomy) | Инструменти | Инструмент за анализ и почистване на дисково пространство в Windows. | C# | ⭐ 438 |
-| 12 | [AgenticOrgLab/ExecOrchestra](https://github.com/AgenticOrgLab/ExecOrchestra) | Инструменти | Оркестрация и маршрутизация на разнородни ресурси. | Python | ⭐ 429 |
-| 13 | [brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop) | Сигурност | Десктоп инсталатор за Malware Defender 2026 с реално време защита. | C++ | ⭐ 416 |
-| 14 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | Друго | Инсталатор за Cubase Studio 2026 с пълна функционалност. | — | ⭐ 415 |
-| 15 | [ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop) | Друго | Инсталатор за DxO PhotoLab 10 2026 с DeepPRIME XD. | C++ | ⭐ 415 |
-| 16 | [ben14-dunn/native-instruments-kontakt-desktop](https://github.com/ben14-dunn/native-instruments-kontakt-desktop) | Друго | Инсталатор за Native Instruments Kontakt 2026 с библиотеки. | C++ | ⭐ 414 |
-| 17 | [azure-teal-slope/windows-optimizer-desktop](https://github.com/azure-teal-slope/windows-optimizer-desktop) | Инструменти | Инсталатор за Windows Optimizer 2026 с настройки за производителност. | C++ | ⭐ 413 |
-| 18 | [ben-cook-42/kontakt-8-desktop](https://github.com/ben-cook-42/kontakt-8-desktop) | Друго | Инсталатор за Kontakt 8 2026 с скриптовия двигател. | C++ | ⭐ 413 |
-| 19 | [bradburns2001/topaz-video-ai-desktop](https://github.com/bradburns2001/topaz-video-ai-desktop) | Друго | Инсталатор за Topaz Video AI 2026 с AI upscaling. | C++ | ⭐ 413 |
-| 20 | [alex-wells-65/iobit-driver-booster-desktop](https://github.com/alex-wells-65/iobit-driver-booster-desktop) | Инструменти | Инсталатор за iObit Driver Booster 2026 с офлайн драйвери. | C++ | ⭐ 413 |
-| 21 | [azuremaple1997/coreldraw-desktop](https://github.com/azuremaple1997/coreldraw-desktop) | Друго | Инсталатор за CorelDraw 2026 с HDR и аудио поддръжка. | C++ | ⭐ 413 |
-| 22 | [brave-shell-07/izotope-rx-11-desktop](https://github.com/brave-shell-07/izotope-rx-11-desktop) | Друго | Инсталатор за iZotope RX 11 2026 с AI аудио ремонт. | C++ | ⭐ 413 |
-| 23 | [azuresail195/wondershare-recoverit-desktop](https://github.com/azuresail195/wondershare-recoverit-desktop) | Инструменти | Инсталатор за Wondershare Recoverit 2026 за възстановяване на файлове. | C++ | ⭐ 413 |
-| 24 | [briskember13/adobe-acrobat-pdf-desktop](https://github.com/briskember13/adobe-acrobat-pdf-desktop) | Друго | Инсталатор за Adobe Acrobat PDF 2026 с AI асистент. | C++ | ⭐ 412 |
-| 25 | [angela-cook-1988/vegas-pro-23-desktop](https://github.com/angela-cook-1988/vegas-pro-23-desktop) | Друго | Инсталатор за VEGAS Pro 23 2026 за видео монтаж. | C++ | ⭐ 412 |
+| 1 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Друго | Без описание — неясно за какво е. | Python | ⭐ 2387 |
+| 2 | [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio) | Инструменти | Инструмент за скульптура, анимация и симулация на пиксел-арт Gaussian splats. | JavaScript | ⭐ 659 |
+| 3 | [faizwashere/ScanDot](https://github.com/faizwashere/ScanDot) | Инструменти | Експериментално Android приложение за 3D сканиране и преглед на точкови облаци. | Kotlin | ⭐ 523 |
+| 4 | [ybblab/Jiumi](https://github.com/ybblab/Jiumi) | Сигурност | Отворен Android монитор за поведение на приложения, права и мрежова активност. | Kotlin | ⭐ 515 |
+| 5 | [pithings/unkernel](https://github.com/pithings/unkernel) | Инструменти | Реален Linux kernel, компилиран до WebAssembly, заредящ се за под секунда. | TypeScript | ⭐ 495 |
+| 6 | [nilbuild/stick-scene](https://github.com/nilbuild/stick-scene) | Инструменти | Умение за рисуване на анимирани визуали от стъклови фигурки. | JavaScript | ⭐ 471 |
+| 7 | [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) | Агенти | Claude Code умение, отблъскващо модела от средния избор при творческа работа. | Python | ⭐ 458 |
+| 8 | [Gosu-x/multimodal-threat-dataset](https://github.com/Gosu-x/multimodal-threat-dataset) | Данни | Набор от данни за заплахи за мултимодални мрежи. | — | ⭐ 429 |
+| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | Агенти | Свързва уеб AI асистенти с локални файлове, терминали и инструменти през MCP. | TypeScript | ⭐ 428 |
+| 10 | [Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp) | Игри | Нативен Windows порт на Super Mario Odyssey чрез статична рекомпилация. | C | ⭐ 407 |
+| 11 | [hikaku-io/hikaku-extension](https://github.com/hikaku-io/hikaku-extension) | Сигурност | Браузър разширение, маркиращо AI-генерирани изображения и видео локално. | JavaScript | ⭐ 395 |
+| 12 | [igawa6/peanuts-native](https://github.com/igawa6/peanuts-native) | Друго | Без описание — неясно за какво е. | C | ⭐ 390 |
+| 13 | [tremorbuffalospire/IPTV_Player_2.0](https://github.com/tremorbuffalospire/IPTV_Player_2.0) | Инструменти | Мощно IPTV приложение за M3U плейлисти, EPG и общностни списъци. | Rust | ⭐ 381 |
+| 14 | [TarantulaCorrect/GitHub-Copilot-app](https://github.com/TarantulaCorrect/GitHub-Copilot-app) | Агенти | Agent-native десктоп приложение за GitHub Copilot за управление на софтуерна работа. | — | ⭐ 376 |
+| 15 | [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 376 |
+| 16 | [TorrentArrow/IPTV_Player_2.0](https://github.com/TorrentArrow/IPTV_Player_2.0) | Инструменти | Мощно IPTV приложение за M3U плейлисти, EPG и общностни списъци. | Rust | ⭐ 375 |
+| 17 | [topconstableinlet67/GitHub-Copilot-app](https://github.com/topconstableinlet67/GitHub-Copilot-app) | Агенти | Agent-native десктоп приложение за GitHub Copilot за управление на софтуерна работа. | — | ⭐ 373 |
+| 18 | [Trapkrostride/GitHub-Copilot-app](https://github.com/Trapkrostride/GitHub-Copilot-app) | Агенти | Agent-native десктоп приложение за GitHub Copilot за управление на софтуерна работа. | — | ⭐ 373 |
+| 19 | [violetkomodolimit/ai--manus2.0](https://github.com/violetkomodolimit/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 373 |
+| 20 | [trackersnailgrip/ai--manus2.0](https://github.com/trackersnailgrip/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 371 |
+| 21 | [finktheartist/sakuga-vfx](https://github.com/finktheartist/sakuga-vfx) | Уеб | Дванадесет UI контрола, реагиращи като аниме, един файл, без зависимости. | HTML | ⭐ 371 |
+| 22 | [taboospecialistblade/ai--manus2.0](https://github.com/taboospecialistblade/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 369 |
+| 23 | [Ultimateakiln/ai--manus2.0](https://github.com/Ultimateakiln/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 369 |
+| 24 | [TrapBladesmith/ai--manus2.0](https://github.com/TrapBladesmith/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 368 |
+| 25 | [Tonephorepair/ai--manus2.0](https://github.com/Tonephorepair/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 368 |
 
-_Нови публични проекти, създадени след 2026-11-11, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-12, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-19](digest/2026/11-19.md)
 - [2026-11-18](digest/2026/11-18.md)
 - [2026-11-17](digest/2026/11-17.md)
 - [2026-11-16](digest/2026/11-16.md)
