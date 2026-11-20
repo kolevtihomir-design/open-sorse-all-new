@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-19)
+## Днес (2026-11-20)
 
-Тази седмица се наблюдава силно нарастване на проекти за AI агенти и инструменти за разработчици, включвайки множество клонове на AI Manus и GitHub Copilot. Повечето нови хранилища са за автоматизация на код, сигурност на Android и уеб-технологии като WebAssembly. Също се виждат креативни инструменти за графика, аниме UI и IPTV плеъри.
+Това седмицата е доминирана от AI-агенти и специализирани инструменти за творчество: от Blender и видео монтаж до анализ на коротки драми и търговия. Силен е трендът към self-hosted алтернативи (observability, Grok бот) и системно ниво — Rust замества C++ в shell replacement, homebrew за Switch 2 и DOS LLM. Китайският пазар дава уникални автоматизации за е-комерс и умни устройства.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Друго | Без описание — неясно за какво е. | Python | ⭐ 2387 |
-| 2 | [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio) | Инструменти | Инструмент за скульптура, анимация и симулация на пиксел-арт Gaussian splats. | JavaScript | ⭐ 659 |
-| 3 | [faizwashere/ScanDot](https://github.com/faizwashere/ScanDot) | Инструменти | Експериментално Android приложение за 3D сканиране и преглед на точкови облаци. | Kotlin | ⭐ 523 |
-| 4 | [ybblab/Jiumi](https://github.com/ybblab/Jiumi) | Сигурност | Отворен Android монитор за поведение на приложения, права и мрежова активност. | Kotlin | ⭐ 515 |
-| 5 | [pithings/unkernel](https://github.com/pithings/unkernel) | Инструменти | Реален Linux kernel, компилиран до WebAssembly, заредящ се за под секунда. | TypeScript | ⭐ 495 |
-| 6 | [nilbuild/stick-scene](https://github.com/nilbuild/stick-scene) | Инструменти | Умение за рисуване на анимирани визуали от стъклови фигурки. | JavaScript | ⭐ 471 |
-| 7 | [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) | Агенти | Claude Code умение, отблъскващо модела от средния избор при творческа работа. | Python | ⭐ 458 |
-| 8 | [Gosu-x/multimodal-threat-dataset](https://github.com/Gosu-x/multimodal-threat-dataset) | Данни | Набор от данни за заплахи за мултимодални мрежи. | — | ⭐ 429 |
-| 9 | [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) | Агенти | Свързва уеб AI асистенти с локални файлове, терминали и инструменти през MCP. | TypeScript | ⭐ 428 |
-| 10 | [Simon3Sarkis/super-odyssey-pc-recomp](https://github.com/Simon3Sarkis/super-odyssey-pc-recomp) | Игри | Нативен Windows порт на Super Mario Odyssey чрез статична рекомпилация. | C | ⭐ 407 |
-| 11 | [hikaku-io/hikaku-extension](https://github.com/hikaku-io/hikaku-extension) | Сигурност | Браузър разширение, маркиращо AI-генерирани изображения и видео локално. | JavaScript | ⭐ 395 |
-| 12 | [igawa6/peanuts-native](https://github.com/igawa6/peanuts-native) | Друго | Без описание — неясно за какво е. | C | ⭐ 390 |
-| 13 | [tremorbuffalospire/IPTV_Player_2.0](https://github.com/tremorbuffalospire/IPTV_Player_2.0) | Инструменти | Мощно IPTV приложение за M3U плейлисти, EPG и общностни списъци. | Rust | ⭐ 381 |
-| 14 | [TarantulaCorrect/GitHub-Copilot-app](https://github.com/TarantulaCorrect/GitHub-Copilot-app) | Агенти | Agent-native десктоп приложение за GitHub Copilot за управление на софтуерна работа. | — | ⭐ 376 |
-| 15 | [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 376 |
-| 16 | [TorrentArrow/IPTV_Player_2.0](https://github.com/TorrentArrow/IPTV_Player_2.0) | Инструменти | Мощно IPTV приложение за M3U плейлисти, EPG и общностни списъци. | Rust | ⭐ 375 |
-| 17 | [topconstableinlet67/GitHub-Copilot-app](https://github.com/topconstableinlet67/GitHub-Copilot-app) | Агенти | Agent-native десктоп приложение за GitHub Copilot за управление на софтуерна работа. | — | ⭐ 373 |
-| 18 | [Trapkrostride/GitHub-Copilot-app](https://github.com/Trapkrostride/GitHub-Copilot-app) | Агенти | Agent-native десктоп приложение за GitHub Copilot за управление на софтуерна работа. | — | ⭐ 373 |
-| 19 | [violetkomodolimit/ai--manus2.0](https://github.com/violetkomodolimit/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 373 |
-| 20 | [trackersnailgrip/ai--manus2.0](https://github.com/trackersnailgrip/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 371 |
-| 21 | [finktheartist/sakuga-vfx](https://github.com/finktheartist/sakuga-vfx) | Уеб | Дванадесет UI контрола, реагиращи като аниме, един файл, без зависимости. | HTML | ⭐ 371 |
-| 22 | [taboospecialistblade/ai--manus2.0](https://github.com/taboospecialistblade/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 369 |
-| 23 | [Ultimateakiln/ai--manus2.0](https://github.com/Ultimateakiln/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 369 |
-| 24 | [TrapBladesmith/ai--manus2.0](https://github.com/TrapBladesmith/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 368 |
-| 25 | [Tonephorepair/ai--manus2.0](https://github.com/Tonephorepair/ai--manus2.0) | Агенти | Общоназначен AI Agent систем за стартиране на инструменти в песочница. | — | ⭐ 368 |
+| 1 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | AI | AI асистент и MCP сървър за Blender с визуален чат, сценични инструменти и мулти-агентни работни потоци. | — | ⭐ 1015 |
+| 2 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Инструменти | Локален движък за клипове 9:16 с титли за ~2 минути — аудио-first, YouTube сабтитри и локален LLM. | Python | ⭐ 971 |
+| 3 | [0marContreras/gta6recomp](https://github.com/0marContreras/gta6recomp) | Игри | Неофициален GTA VI PC порт — вероятно експериментален или фалшив проект без ясно описание. | — | ⭐ 760 |
+| 4 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Инструменти | Пълна замяна на Windows shell на Rust: таскбар, файл мениджър, NTFS търсене, таск мениджър, дисков чистител. | Rust | ⭐ 616 |
+| 5 | [0xkaka/homeport](https://github.com/0xkaka/homeport) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 531 |
+| 6 | [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) | Сигурност | 0day уязвимост за обхождане на LockScreen чрез Windows Narrator. | — | ⭐ 494 |
+| 7 | [replit/datacat](https://github.com/replit/datacat) | Данни | Self-hosted observability платформа: метрики, логове, трасиране, дашборди и алерти с PostgreSQL/ClickHouse. | TypeScript | ⭐ 440 |
+| 8 | [Forward-Future/scarlet](https://github.com/Forward-Future/scarlet) | AI | AI видео редактор за macOS и Windows. | TypeScript | ⭐ 439 |
+| 9 | [nataphong-lab/Open-Source-Face-Recognition-Ultimate](https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate) | AI | Пълен набор за лицево разпознаване: liveness, anti-spoofing, landmarks, емоции, атрибути, сравнение. | Python | ⭐ 395 |
+| 10 | [davidondrej/superbot](https://github.com/davidondrej/superbot) | Агенти | Self-hosted алтернатива на Grok бот. | Rust | ⭐ 385 |
+| 11 | [achun1107/xianyu-auto-listing](https://github.com/achun1107/xianyu-auto-listing) | Инструменти | Автоматично качване на продукти в Xianyu/Goofish: от „град звезда“ до снимка, заглавие, категория и публикация. | JavaScript | ⭐ 373 |
+| 12 | [EunChae1110/mmforge-platform](https://github.com/EunChae1110/mmforge-platform) | Инструменти | Превръща краток текст, скрийншот или елемент в кликваемо мод меню в локален canvas. | TypeScript | ⭐ 372 |
+| 13 | [ouncebrew/kaihen](https://github.com/ouncebrew/kaihen) | Игри | Homebrew enabler и минимален CFW за Nintendo Switch 2. | C++ | ⭐ 367 |
+| 14 | [rolazd/xiaoai-doubao](https://github.com/rolazd/xiaoai-doubao) | AI | Превръща XiaoAI звучника в детски английски спътник — чати на английски и запомня контекста. | C++ | ⭐ 358 |
+| 15 | [Rolandjg/fableflight](https://github.com/Rolandjg/fableflight) | Игри | Open-world полетен симулатор, написан на Rust (vibe coded). | Rust | ⭐ 353 |
+| 16 | [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) | Друго | Без описание — неясно за какво е. | JavaScript | ⭐ 341 |
+| 17 | [34306/ForceDuoApp](https://github.com/34306/ForceDuoApp) | Инструменти | Насилва iPhone Duo приложения да използват най-новия SDK и да поддържат Duo формата вместо iPad UI. | Objective-C | ⭐ 341 |
+| 18 | [WollyMonjac/Tiny-2.1](https://github.com/WollyMonjac/Tiny-2.1) | AI | Езиков модел за DOS, който се побира на флопи дискета. | Python | ⭐ 340 |
+| 19 | [roan-maverick/tradingview-indicator-for-ai-agents](https://github.com/roan-maverick/tradingview-indicator-for-ai-agents) | Агенти | TradingView индикатор, проектиран специално за AI агенти. | — | ⭐ 328 |
+| 20 | [waw666waw666/RegisterHub](https://github.com/waw666waw666/RegisterHub) | Инструменти | Универсален шаблон за автоматична регистрация с Playwright, stealth и anti-bot защита. | Python | ⭐ 327 |
+| 21 | [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) | Друго | Без описание — неясно за какво е. | Python | ⭐ 312 |
+| 22 | [brave-plum-co/leonardo-ai-desktop](https://github.com/brave-plum-co/leonardo-ai-desktop) | AI | Leonardo AI desktop за Windows 11: text-to-image, canvas editor, inpainting/outpainting, real-time generation, image-to-motion. | C++ | ⭐ 304 |
+| 23 | [vaibhav-space/my-ai-coding-workflow](https://github.com/vaibhav-space/my-ai-coding-workflow) | Агенти | Production-grade AI coding инструкции, умения и 3-стадиен review pipeline (Planning → Critical Review → Diff Audit). | HTML | ⭐ 303 |
+| 24 | [scarletkc/colab-playground](https://github.com/scarletkc/colab-playground) | Инструменти | Desktop приложение за Google Colab CLI: акаунти, GPU сесии с cost guards, port forwarding и плъгини. | Rust | ⭐ 298 |
+| 25 | [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon) | AI | AI разбор на коротки драми: защо стават вирални, как е написан сценарио, всеки кадър — за учене и създаване. | Python | ⭐ 285 |
 
-_Нови публични проекти, създадени след 2026-11-12, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-13, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-20](digest/2026/11-20.md)
 - [2026-11-19](digest/2026/11-19.md)
 - [2026-11-18](digest/2026/11-18.md)
 - [2026-11-17](digest/2026/11-17.md)
