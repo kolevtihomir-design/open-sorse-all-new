@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-21)
+## Днес (2026-11-22)
 
-Тази седмица преобладават проекти за AI агенти и техните умения (skills), включително дизайн, видео генерация и кодови помощници. Вижда се силен интерес към формална верификация в Lean (Риманова хипотеза, Навие-Стокс). Също така излизат инструменти за мобилни платформи (iOS CarPlay, Lock Screen), игри (frame generation), сигурност (CVE PoC) и разработчески утилити.
+Преобладават проекти за емулация и портове на игри (особено GTA 6), както и множество подозрителни „преносни“ Windows инструменти с идентични шаблонни описания. Има и няколко AI-ориентирани репозитария за оптимизация и дистилация на умения.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Инструменти | Без описание — неясно за какво е. | Python | ⭐ 683 |
-| 2 | [CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean) | Образование | Lean доказателство за Риманова хипотеза, огледало на работата на Левент Алпьоге. | Lean | ⭐ 393 |
-| 3 | [sa4hnd/YouDash](https://github.com/sa4hnd/YouDash) | Инструменти | Нативен YouTube за Apple CarPlay с блокиране на реклами и клавиатура на екрана. | Objective-C | ⭐ 357 |
-| 4 | [diego3g/craft](https://github.com/diego3g/craft) | Агенти | Умения за дизайн на AI агенти: създава дизайн бройф и екрани от дизайн система. | JavaScript | ⭐ 331 |
-| 5 | [smoovplay/smoovplay](https://github.com/smoovplay/smoovplay) | Игри | Реално-времева генерация и ускейлинг на кадри за конзолни игри с GPU. | Python | ⭐ 330 |
-| 6 | [staryone/motlab](https://github.com/staryone/motlab) | Агенти | Видео като код: canvas сцени с WebCodecs в headless Chrome и агентски умения. | JavaScript | ⭐ 323 |
-| 7 | [lishuangqiang/mixbar](https://github.com/lishuangqiang/mixbar) | Инструменти | Миксер на звука за всяко приложение в macOS, без драйвери и акаунт. | Swift | ⭐ 320 |
-| 8 | [niyouqianma/workbuddy2api-hub](https://github.com/niyouqianma/workbuddy2api-hub) | AI | Локален шлюз, съвместим с OpenAI API. | Python | ⭐ 305 |
-| 9 | [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) | Образование | Независима компараторна инсталация за Lean формализация на Риманова хипотеза. | Lean | ⭐ 302 |
-| 10 | [lizhenjie137/intelligent-organization](https://github.com/lizhenjie137/intelligent-organization) | Агенти | Интелигентна организация: хора и AI агенти сътрудничат по атомарни способности. | Python | ⭐ 293 |
-| 11 | [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) | Сигурност | Proof-of-concept скриптове за CVE-2026-123007: integer underflow в NGINX HTTP/2. | Python | ⭐ 285 |
-| 12 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | Агенти | Агентско умение: превръща четири pixel art погледа в fake-3D спрайтове. | HTML | ⭐ 283 |
-| 13 | [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes) | Образование | Без описание — неясно за какво е. | Lean | ⭐ 282 |
-| 14 | [umbra0688/windows-clipboard-manager-sync](https://github.com/umbra0688/windows-clipboard-manager-sync) | Инструменти | Windows clipboard мениджър с търсим история, колекции, клавишни комбинации и cloud sync. | Dart | ⭐ 281 |
-| 15 | [CoderL98/hghub-plugins](https://github.com/CoderL98/hghub-plugins) | Инструменти | HGhub HPP 1.0 ед노файлови плъгини и абонаментни източници. | JavaScript | ⭐ 279 |
-| 16 | [ShutongLiang/Neural-State-OS](https://github.com/ShutongLiang/Neural-State-OS) | AI | Калибрирана модулация на вътрешно състояние и наблюдаемост за локални езикови модели. | Python | ⭐ 274 |
-| 17 | [zgraham1981/Stablecoin-Payment-Gateway](https://github.com/zgraham1981/Stablecoin-Payment-Gateway) | Инструменти | Self-hosted stablecoin платежен шлюз с x402, QR плащания и подписани webhooks. | Python | ⭐ 272 |
-| 18 | [leostera/git-twig](https://github.com/leostera/git-twig) | Агенти | Леки git worktrees за агенти. | Rust | ⭐ 271 |
-| 19 | [prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect) | Инструменти | Локален сървър за управление на 3D принтери Prusa. | Go | ⭐ 271 |
-| 20 | [AnIT012/nihongo](https://github.com/AnIT012/nihongo) | Агенти | Агентско умение: прави AI-написаното японски по-човешко. | Python | ⭐ 271 |
-| 21 | [Kianuni/Camlo](https://github.com/Kianuni/Camlo) | Инструменти | Оживява iPhone Lock Screen: 3D дълбочина, анимирани стени, без jailbreak. | Swift | ⭐ 267 |
-| 22 | [johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis) | Инструменти | Pi разширение: цветни статус таблетки, икони и задебелен текст за лесно сканиране. | TypeScript | ⭐ 267 |
-| 23 | [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene) | Инструменти | Малка система за четимост и хигиена на кода. | Python | ⭐ 264 |
-| 24 | [crafter-station/Muelle](https://github.com/crafter-station/Muelle) | Инструменти | Лека macOS-стилова дока за Windows 11 с стъклени визуали и ефекти. | Rust | ⭐ 262 |
-| 25 | [hoangsvit/google-ai](https://github.com/hoangsvit/google-ai) | AI | Терминален toolkit за инспекция на Google AI Pro оферти през Android, ADB, Frida. | Python | ⭐ 250 |
+| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Игри | Нативна рекомпилация на Xbox версията на GTA 6 за PC. | Python | ⭐ 9998 |
+| 2 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Игри | Статична рекомпилация на GTA VI за Windows x64. | Python | ⭐ 1148 |
+| 3 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Игри | Бележки за стартиране на Xbox Series X/S билдове на PC. | Rust | ⭐ 1052 |
+| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | AI | Профилиране и оптимизация на горчив код с AI агенти. | Rust | ⭐ 770 |
+| 5 | [opokukopoku/gta-6-pc-release](https://github.com/opokukopoku/gta-6-pc-release) | Игри | Претендира за пълен достъп до GTA 6 на PC. | HTML | ⭐ 444 |
+| 6 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | AI | Дистилация на Claude Code сесии в умения за отворени модели. | Python | ⭐ 428 |
+| 7 | [kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64](https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64) | Инструменти | Преносен FL Studio 2026 с всички плъгини за Windows. | Jupyter Notebook | ⭐ 350 |
+| 8 | [antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po](https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po) | Инструменти | Discord утилита с AI за автоматизиране на квестове и значки. | Jupyter Notebook | ⭐ 342 |
+| 9 | [danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64](https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64) | Игри | Мод за War Thunder: контури на танкове и термични прицели. | Jupyter Notebook | ⭐ 342 |
+| 10 | [CETPROAR/rob-run-ares-enhancer](https://github.com/CETPROAR/rob-run-ares-enhancer) | Игри | Чит меню за Rob Run с безкрайни пари и ESP. | HTML | ⭐ 340 |
+| 11 | [leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64](https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64) | Игри | Усъвършенстване на GTA 6 Vice City PS5 Remote Play до 60 FPS. | Jupyter Notebook | ⭐ 340 |
+| 12 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Инструменти | Подобрен Discord клиент за моддери и разработчици. | HTML | ⭐ 339 |
+| 13 | [markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl](https://github.com/markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl) | Игри | Патч за Bloodborne на PC чрез ShadPS4 емулатор: 60 FPS. | Jupyter Notebook | ⭐ 339 |
+| 14 | [darthvader097br-ctrl/acronis-standalone-bundle](https://github.com/darthvader097br-ctrl/acronis-standalone-bundle) | Инструменти | Модулна Acronis суита за системно управление. | HTML | ⭐ 339 |
+| 15 | [nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port](https://github.com/nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port) | Инструменти | Инструмент за отключване на Samsung/Android устройства през MTP. | Jupyter Notebook | ⭐ 339 |
+| 16 | [vinujak/phantom-blade-zero-modifier](https://github.com/vinujak/phantom-blade-zero-modifier) | Игри | Треньор за Phantom Blade Zero: God Mode и безкрайно здраве. | HTML | ⭐ 339 |
+| 17 | [Dhruv2710-hub/cellebrite-ufed](https://github.com/Dhruv2710-hub/cellebrite-ufed) | Сигурност | Форензичен пакет Cellebrite UFED за дигитален анализ. | HTML | ⭐ 339 |
+| 18 | [zainzedan1111-commits/auto-withdraw-bot](https://github.com/zainzedan1111-commits/auto-withdraw-bot) | Инструменти | Бот за автоматично теглене с десктоп интерфейс. | HTML | ⭐ 339 |
+| 19 | [dillithdillith4-cell/autodesk-cfd](https://github.com/dillithdillith4-cell/autodesk-cfd) | Инструменти | Настройка на Autodesk CFD за течовна динамика. | HTML | ⭐ 339 |
+| 20 | [akashak47218/kms-pico-desktop-edition](https://github.com/akashak47218/kms-pico-desktop-edition) | Инструменти | KMS Pico за активиране на Microsoft продукти. | HTML | ⭐ 338 |
+| 21 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | Инструменти | Алтернативен достъп до Avid Media Composer. | HTML | ⭐ 338 |
+| 22 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | Инструменти | NinjaTrader бот за Discord и Telegram. | HTML | ⭐ 338 |
+| 23 | [youssefco1999-hash/aiseesoft-launch-pro](https://github.com/youssefco1999-hash/aiseesoft-launch-pro) | Инструменти | Утилита за Aiseesoft разблокиране на iOS устройства. | HTML | ⭐ 338 |
+| 24 | [pravinak1188-design/ashampoo-uninstaller](https://github.com/pravinak1188-design/ashampoo-uninstaller) | Инструменти | Ashampoo Uninstaller за дълбоко почистване на системата. | HTML | ⭐ 338 |
+| 25 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | Инструменти | SP Flash Tool за MediaTek устройства. | HTML | ⭐ 338 |
 
-_Нови публични проекти, създадени след 2026-11-14, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-15, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-22](digest/2026/11-22.md)
 - [2026-11-21](digest/2026/11-21.md)
 - [2026-11-20](digest/2026/11-20.md)
 - [2026-11-19](digest/2026/11-19.md)
