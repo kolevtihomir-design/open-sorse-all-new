@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-22)
+## Днес (2026-11-23)
 
-Преобладават проекти за емулация и портове на игри (особено GTA 6), както и множество подозрителни „преносни“ Windows инструменти с идентични шаблонни описания. Има и няколко AI-ориентирани репозитария за оптимизация и дистилация на умения.
+Това седмица е доминирана от проекти за AI агенти — тестване на мобилни устройства, локални екипи агенти, детекция на атаки и артефакти за сътрудничество. Се виждат и нискониво системни инструменти (XNU на Linux, Xbox слой, хаптични обратна връзка), както и няколко игрови прекомпилации и сървъри. Много от новите репозитори изглеждат като спам/кракнути софтуер — да се третират с предпазливост.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Игри | Нативна рекомпилация на Xbox версията на GTA 6 за PC. | Python | ⭐ 9998 |
-| 2 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Игри | Статична рекомпилация на GTA VI за Windows x64. | Python | ⭐ 1148 |
-| 3 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Игри | Бележки за стартиране на Xbox Series X/S билдове на PC. | Rust | ⭐ 1052 |
-| 4 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | AI | Профилиране и оптимизация на горчив код с AI агенти. | Rust | ⭐ 770 |
-| 5 | [opokukopoku/gta-6-pc-release](https://github.com/opokukopoku/gta-6-pc-release) | Игри | Претендира за пълен достъп до GTA 6 на PC. | HTML | ⭐ 444 |
-| 6 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | AI | Дистилация на Claude Code сесии в умения за отворени модели. | Python | ⭐ 428 |
-| 7 | [kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64](https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64) | Инструменти | Преносен FL Studio 2026 с всички плъгини за Windows. | Jupyter Notebook | ⭐ 350 |
-| 8 | [antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po](https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po) | Инструменти | Discord утилита с AI за автоматизиране на квестове и значки. | Jupyter Notebook | ⭐ 342 |
-| 9 | [danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64](https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64) | Игри | Мод за War Thunder: контури на танкове и термични прицели. | Jupyter Notebook | ⭐ 342 |
-| 10 | [CETPROAR/rob-run-ares-enhancer](https://github.com/CETPROAR/rob-run-ares-enhancer) | Игри | Чит меню за Rob Run с безкрайни пари и ESP. | HTML | ⭐ 340 |
-| 11 | [leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64](https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64) | Игри | Усъвършенстване на GTA 6 Vice City PS5 Remote Play до 60 FPS. | Jupyter Notebook | ⭐ 340 |
-| 12 | [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) | Инструменти | Подобрен Discord клиент за моддери и разработчици. | HTML | ⭐ 339 |
-| 13 | [markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl](https://github.com/markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl) | Игри | Патч за Bloodborne на PC чрез ShadPS4 емулатор: 60 FPS. | Jupyter Notebook | ⭐ 339 |
-| 14 | [darthvader097br-ctrl/acronis-standalone-bundle](https://github.com/darthvader097br-ctrl/acronis-standalone-bundle) | Инструменти | Модулна Acronis суита за системно управление. | HTML | ⭐ 339 |
-| 15 | [nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port](https://github.com/nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port) | Инструменти | Инструмент за отключване на Samsung/Android устройства през MTP. | Jupyter Notebook | ⭐ 339 |
-| 16 | [vinujak/phantom-blade-zero-modifier](https://github.com/vinujak/phantom-blade-zero-modifier) | Игри | Треньор за Phantom Blade Zero: God Mode и безкрайно здраве. | HTML | ⭐ 339 |
-| 17 | [Dhruv2710-hub/cellebrite-ufed](https://github.com/Dhruv2710-hub/cellebrite-ufed) | Сигурност | Форензичен пакет Cellebrite UFED за дигитален анализ. | HTML | ⭐ 339 |
-| 18 | [zainzedan1111-commits/auto-withdraw-bot](https://github.com/zainzedan1111-commits/auto-withdraw-bot) | Инструменти | Бот за автоматично теглене с десктоп интерфейс. | HTML | ⭐ 339 |
-| 19 | [dillithdillith4-cell/autodesk-cfd](https://github.com/dillithdillith4-cell/autodesk-cfd) | Инструменти | Настройка на Autodesk CFD за течовна динамика. | HTML | ⭐ 339 |
-| 20 | [akashak47218/kms-pico-desktop-edition](https://github.com/akashak47218/kms-pico-desktop-edition) | Инструменти | KMS Pico за активиране на Microsoft продукти. | HTML | ⭐ 338 |
-| 21 | [Redwannn/avid-media-composer](https://github.com/Redwannn/avid-media-composer) | Инструменти | Алтернативен достъп до Avid Media Composer. | HTML | ⭐ 338 |
-| 22 | [eastspaper6-cmyk/ninjatrader-bot](https://github.com/eastspaper6-cmyk/ninjatrader-bot) | Инструменти | NinjaTrader бот за Discord и Telegram. | HTML | ⭐ 338 |
-| 23 | [youssefco1999-hash/aiseesoft-launch-pro](https://github.com/youssefco1999-hash/aiseesoft-launch-pro) | Инструменти | Утилита за Aiseesoft разблокиране на iOS устройства. | HTML | ⭐ 338 |
-| 24 | [pravinak1188-design/ashampoo-uninstaller](https://github.com/pravinak1188-design/ashampoo-uninstaller) | Инструменти | Ashampoo Uninstaller за дълбоко почистване на системата. | HTML | ⭐ 338 |
-| 25 | [hariachayan5-dotcom/sp-flash-tool](https://github.com/hariachayan5-dotcom/sp-flash-tool) | Инструменти | SP Flash Tool за MediaTek устройства. | HTML | ⭐ 338 |
+| 1 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | Агенти | 20 AI тестъра на 20 телефона паралелно за откриване на бъгове. | Python | ⭐ 1270 |
+| 2 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | Инструменти | XNU ядро като модул в Linux за macOS личност на arm64. | Objective-C++ | ⭐ 1239 |
+| 3 | [os6/nospeaker](https://github.com/os6/nospeaker) | Инструменти | Прави тачпада на MacBook да говори чрез хаптичен мотор. | Swift | ⭐ 1068 |
+| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Агенти | MCP ускорител за Google Antigravity — намалява токени и трафик. | TypeScript | ⭐ 746 |
+| 5 | [realdody/americas-recomp](https://github.com/realdody/americas-recomp) | Друго | Без описание — неясно за какво е. | — | ⭐ 571 |
+| 6 | [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) | Сигурност | Правила за детекция на атаки от AI агентски фреймворкове. | Python | ⭐ 524 |
+| 7 | [ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot) | Игри | Нативен PC прекомпилация на Switch 2 Ocarina of Time ремейк. | C++ | ⭐ 498 |
+| 8 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | Агенти | Локален AI агентски екип за десктоп с групови чатове и браузър. | TypeScript | ⭐ 482 |
+| 9 | [nkjDSLcvanv/antigravity-codex-theme](https://github.com/nkjDSLcvanv/antigravity-codex-theme) | Инструменти | Тема и китайска локализация за Google Antigravity десктоп. | JavaScript | ⭐ 461 |
+| 10 | [ivall/xcl](https://github.com/ivall/xcl) | Игри | Xbox Series съвместимостен слой за Windows — стартира конзолни игри. | Rust | ⭐ 429 |
+| 11 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | Агенти | Отворени артефакти за AI агенти — слайдове, UI, дашборди, документи. | TypeScript | ⭐ 423 |
+| 12 | [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud) | Уеб | Minecraft Java сървър بالكامل на Cloudflare — спи когато няма играчи. | TypeScript | ⭐ 413 |
+| 13 | [hovocope135-tech/DSH-projects](https://github.com/hovocope135-tech/DSH-projects) | Агенти | Плъгин за DeepSeek Harness — цел в едно изречение, паралелни задачи. | JavaScript | ⭐ 398 |
+| 14 | [xikhar/papercraft](https://github.com/xikhar/papercraft) | Агенти | Агентска умения за игри и анимации в стил поп-ап хартия. | JavaScript | ⭐ 365 |
+| 15 | [icitycode/capcut-for-windows](https://github.com/icitycode/capcut-for-windows) | Инструменти | CapCut за Windows — визуално монтиране и запис на екрана. | HTML | ⭐ 356 |
+| 16 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Инструменти | Стартиране на множество Claude Desktop акаунти едновременно на Mac. | HTML | ⭐ 349 |
+| 17 | [inworld-ai/voice-isolator](https://github.com/inworld-ai/voice-isolator) | Инструменти | Изолация на глас — отделя чист реч от шум и смесен аудио. | Python | ⭐ 348 |
+| 18 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | Сигурност | Бърз Rust уязвимостен скенер: XSS, SQL, секрети, AI агентски настройки. | Rust | ⭐ 343 |
+| 19 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
+| 20 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
+| 21 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
+| 22 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
+| 23 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 338 |
+| 24 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 338 |
+| 25 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 338 |
 
-_Нови публични проекти, създадени след 2026-11-15, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-16, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-23](digest/2026/11-23.md)
 - [2026-11-22](digest/2026/11-22.md)
 - [2026-11-21](digest/2026/11-21.md)
 - [2026-11-20](digest/2026/11-20.md)
