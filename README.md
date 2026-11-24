@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-23)
+## Днес (2026-11-24)
 
-Това седмица е доминирана от проекти за AI агенти — тестване на мобилни устройства, локални екипи агенти, детекция на атаки и артефакти за сътрудничество. Се виждат и нискониво системни инструменти (XNU на Linux, Xbox слой, хаптични обратна връзка), както и няколко игрови прекомпилации и сървъри. Много от новите репозитори изглеждат като спам/кракнути софтуер — да се третират с предпазливост.
+Тази седмица наблюдаваме буря от проекти за обратно инженерство и емулация на GTA VI, заедно с нови десктоп утилити, AI агенти и инструменти за оптимизация. Основните теми са игрови портове, локално обучение на модели и потребителски инструменти за Windows и Android.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | Агенти | 20 AI тестъра на 20 телефона паралелно за откриване на бъгове. | Python | ⭐ 1270 |
-| 2 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | Инструменти | XNU ядро като модул в Linux за macOS личност на arm64. | Objective-C++ | ⭐ 1239 |
-| 3 | [os6/nospeaker](https://github.com/os6/nospeaker) | Инструменти | Прави тачпада на MacBook да говори чрез хаптичен мотор. | Swift | ⭐ 1068 |
-| 4 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Агенти | MCP ускорител за Google Antigravity — намалява токени и трафик. | TypeScript | ⭐ 746 |
-| 5 | [realdody/americas-recomp](https://github.com/realdody/americas-recomp) | Друго | Без описание — неясно за какво е. | — | ⭐ 571 |
-| 6 | [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) | Сигурност | Правила за детекция на атаки от AI агентски фреймворкове. | Python | ⭐ 524 |
-| 7 | [ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot) | Игри | Нативен PC прекомпилация на Switch 2 Ocarina of Time ремейк. | C++ | ⭐ 498 |
-| 8 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | Агенти | Локален AI агентски екип за десктоп с групови чатове и браузър. | TypeScript | ⭐ 482 |
-| 9 | [nkjDSLcvanv/antigravity-codex-theme](https://github.com/nkjDSLcvanv/antigravity-codex-theme) | Инструменти | Тема и китайска локализация за Google Antigravity десктоп. | JavaScript | ⭐ 461 |
-| 10 | [ivall/xcl](https://github.com/ivall/xcl) | Игри | Xbox Series съвместимостен слой за Windows — стартира конзолни игри. | Rust | ⭐ 429 |
-| 11 | [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) | Агенти | Отворени артефакти за AI агенти — слайдове, UI, дашборди, документи. | TypeScript | ⭐ 423 |
-| 12 | [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud) | Уеб | Minecraft Java сървър بالكامل на Cloudflare — спи когато няма играчи. | TypeScript | ⭐ 413 |
-| 13 | [hovocope135-tech/DSH-projects](https://github.com/hovocope135-tech/DSH-projects) | Агенти | Плъгин за DeepSeek Harness — цел в едно изречение, паралелни задачи. | JavaScript | ⭐ 398 |
-| 14 | [xikhar/papercraft](https://github.com/xikhar/papercraft) | Агенти | Агентска умения за игри и анимации в стил поп-ап хартия. | JavaScript | ⭐ 365 |
-| 15 | [icitycode/capcut-for-windows](https://github.com/icitycode/capcut-for-windows) | Инструменти | CapCut за Windows — визуално монтиране и запис на екрана. | HTML | ⭐ 356 |
-| 16 | [jackson-cmd/claude-multi-desktop](https://github.com/jackson-cmd/claude-multi-desktop) | Инструменти | Стартиране на множество Claude Desktop акаунти едновременно на Mac. | HTML | ⭐ 349 |
-| 17 | [inworld-ai/voice-isolator](https://github.com/inworld-ai/voice-isolator) | Инструменти | Изолация на глас — отделя чист реч от шум и смесен аудио. | Python | ⭐ 348 |
-| 18 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | Сигурност | Бърз Rust уязвимостен скенер: XSS, SQL, секрети, AI агентски настройки. | Rust | ⭐ 343 |
-| 19 | [Adabi0304/studioonepro7-release](https://github.com/Adabi0304/studioonepro7-release) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
-| 20 | [Urvee003/bloxshade-for-roblox](https://github.com/Urvee003/bloxshade-for-roblox) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
-| 21 | [yrf15gamin-pixel/ashampoo-winoptimizer-pro](https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
-| 22 | [CertificateVerfication/chimera-utility](https://github.com/CertificateVerfication/chimera-utility) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 339 |
-| 23 | [cr4zyp4ul/quicken-deluxe](https://github.com/cr4zyp4ul/quicken-deluxe) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 338 |
-| 24 | [Yummy2288/fonetrans-desktop-utility](https://github.com/Yummy2288/fonetrans-desktop-utility) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 338 |
-| 25 | [drillryte/easy-worship](https://github.com/drillryte/easy-worship) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 338 |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Игри | Опит за стартиране на GTA VI на PC. | Rust | ⭐ 9438 |
+| 2 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | Игри | Жив тракер за състоянието на GTA VI на PC. | JavaScript | ⭐ 2086 |
+| 3 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Игри | Продължение на Leonida за порт Xbox→PC на GTA VI. | Python | ⭐ 1360 |
+| 4 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | Инструменти | Списък с инструменти за обратно инженерство на GTA VI. | HTML | ⭐ 662 |
+| 5 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Инструменти | Нативен YouTube клиент за Windows с SponsorBlock и DeArrow. | Rust | ⭐ 646 |
+| 6 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | Инструменти | Десктопен домашен любимец-котка с визуализация на клавиатурата. | TypeScript | ⭐ 575 |
+| 7 | [deterministic-machines/deslop-please](https://github.com/deterministic-machines/deslop-please) | Инструменти | Инструмент за почистване и подредба на код. | Rust | ⭐ 555 |
+| 8 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | Агенти | iOS симулатор за AI агенти, работещ на Linux. | Rust | ⭐ 433 |
+| 9 | [crhywun/g1-acq](https://github.com/crhywun/g1-acq) | Друго | Без описание — неясно за какво е. | JavaScript | ⭐ 419 |
+| 10 | [GGBondLab/OpenHC](https://github.com/GGBondLab/OpenHC) | Инструменти | Съвместим приемник за Android авто системи HICAR. | Kotlin | ⭐ 405 |
+| 11 | [LeonidaReforge/Leonida](https://github.com/LeonidaReforge/Leonida) | Игри | Общностно продължение на проекта Leonida за GTA VI. | Python | ⭐ 394 |
+| 12 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | Инструменти | Python библиотека за архитектурни диаграми с самопроверка. | Python | ⭐ 380 |
+| 13 | [sous-labs/songe](https://github.com/sous-labs/songe) | AI | Движок за обучение на локален модел с неактивни ресурси. | Python | ⭐ 374 |
+| 14 | [tweak-for-me/impulse](https://github.com/tweak-for-me/impulse) | Игри | Лек Windows клиент за игрови треньори с хоткейове. | Rust | ⭐ 370 |
+| 15 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | Инструменти | Нативен десктопен котка-любимец за macOS и Windows. | C++ | ⭐ 350 |
+| 16 | [estebanarosemena/StellarHub](https://github.com/estebanarosemena/StellarHub) | Инструменти | Пълен системен мениджър за Windows без бloatware. | Python | ⭐ 346 |
+| 17 | [cyb3rl00m/prune-debloater](https://github.com/cyb3rl00m/prune-debloater) | Инструменти | Инструмент за дебLOAT и оптимизация на Android устройства. | Kotlin | ⭐ 343 |
+| 18 | [cuesta4/GOW3rehooked](https://github.com/cuesta4/GOW3rehooked) | Игри | Превъзходен преработен порт на God of War 3 за PC. | C++ | ⭐ 343 |
+| 19 | [lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator) | Игри | Емулатор на GTA 6 за Windows. | HTML | ⭐ 340 |
+| 20 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Инструменти | Инструмент за балансиране на портфейли на десктоп. | HTML | ⭐ 339 |
+| 21 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | Инструменти | Бот за MetaTrader 5 с интеграция в Discord и Telegram. | HTML | ⭐ 338 |
+| 22 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | Данни | Набор от функции за разширен анализ на данни с IBM SPSS. | HTML | ⭐ 338 |
+| 23 | [Gobjb/directory-opus-launch](https://github.com/Gobjb/directory-opus-launch) | Инструменти | Разширено управление на файлове с Directory Opus. | HTML | ⭐ 338 |
+| 24 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | AI | AI система за монтаж на YouTube видеа. | HTML | ⭐ 338 |
+| 25 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Инструменти | Утилита за управление на десктоп с персонализация. | HTML | ⭐ 338 |
 
-_Нови публични проекти, създадени след 2026-11-16, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-17, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-24](digest/2026/11-24.md)
 - [2026-11-23](digest/2026/11-23.md)
 - [2026-11-22](digest/2026/11-22.md)
 - [2026-11-21](digest/2026/11-21.md)
