@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-24)
+## Днес (2026-11-25)
 
-Тази седмица наблюдаваме буря от проекти за обратно инженерство и емулация на GTA VI, заедно с нови десктоп утилити, AI агенти и инструменти за оптимизация. Основните теми са игрови портове, локално обучение на модели и потребителски инструменти за Windows и Android.
+Тази седмица доминират проекти за съвместимост на конзолни игри (Xbox Series, PS5) на PC, написани предимно на Rust. Популярни са и мениджъри за модове, Steam утилити и офлайн медия конвертори. Наблюжава се нарастване на инструменти за игрове и мултимедия за Windows.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Игри | Опит за стартиране на GTA VI на PC. | Rust | ⭐ 9438 |
-| 2 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | Игри | Жив тракер за състоянието на GTA VI на PC. | JavaScript | ⭐ 2086 |
-| 3 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Игри | Продължение на Leonida за порт Xbox→PC на GTA VI. | Python | ⭐ 1360 |
-| 4 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | Инструменти | Списък с инструменти за обратно инженерство на GTA VI. | HTML | ⭐ 662 |
-| 5 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Инструменти | Нативен YouTube клиент за Windows с SponsorBlock и DeArrow. | Rust | ⭐ 646 |
-| 6 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | Инструменти | Десктопен домашен любимец-котка с визуализация на клавиатурата. | TypeScript | ⭐ 575 |
-| 7 | [deterministic-machines/deslop-please](https://github.com/deterministic-machines/deslop-please) | Инструменти | Инструмент за почистване и подредба на код. | Rust | ⭐ 555 |
-| 8 | [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) | Агенти | iOS симулатор за AI агенти, работещ на Linux. | Rust | ⭐ 433 |
-| 9 | [crhywun/g1-acq](https://github.com/crhywun/g1-acq) | Друго | Без описание — неясно за какво е. | JavaScript | ⭐ 419 |
-| 10 | [GGBondLab/OpenHC](https://github.com/GGBondLab/OpenHC) | Инструменти | Съвместим приемник за Android авто системи HICAR. | Kotlin | ⭐ 405 |
-| 11 | [LeonidaReforge/Leonida](https://github.com/LeonidaReforge/Leonida) | Игри | Общностно продължение на проекта Leonida за GTA VI. | Python | ⭐ 394 |
-| 12 | [lukendeasy/open-diagram](https://github.com/lukendeasy/open-diagram) | Инструменти | Python библиотека за архитектурни диаграми с самопроверка. | Python | ⭐ 380 |
-| 13 | [sous-labs/songe](https://github.com/sous-labs/songe) | AI | Движок за обучение на локален модел с неактивни ресурси. | Python | ⭐ 374 |
-| 14 | [tweak-for-me/impulse](https://github.com/tweak-for-me/impulse) | Игри | Лек Windows клиент за игрови треньори с хоткейове. | Rust | ⭐ 370 |
-| 15 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | Инструменти | Нативен десктопен котка-любимец за macOS и Windows. | C++ | ⭐ 350 |
-| 16 | [estebanarosemena/StellarHub](https://github.com/estebanarosemena/StellarHub) | Инструменти | Пълен системен мениджър за Windows без бloatware. | Python | ⭐ 346 |
-| 17 | [cyb3rl00m/prune-debloater](https://github.com/cyb3rl00m/prune-debloater) | Инструменти | Инструмент за дебLOAT и оптимизация на Android устройства. | Kotlin | ⭐ 343 |
-| 18 | [cuesta4/GOW3rehooked](https://github.com/cuesta4/GOW3rehooked) | Игри | Превъзходен преработен порт на God of War 3 за PC. | C++ | ⭐ 343 |
-| 19 | [lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator) | Игри | Емулатор на GTA 6 за Windows. | HTML | ⭐ 340 |
-| 20 | [dongarenikhilit047-star/portfolio-rebalancer](https://github.com/dongarenikhilit047-star/portfolio-rebalancer) | Инструменти | Инструмент за балансиране на портфейли на десктоп. | HTML | ⭐ 339 |
-| 21 | [ayux777/metatrader-5-bot](https://github.com/ayux777/metatrader-5-bot) | Инструменти | Бот за MetaTrader 5 с интеграция в Discord и Telegram. | HTML | ⭐ 338 |
-| 22 | [23080960124/ibm-spss-statistics](https://github.com/23080960124/ibm-spss-statistics) | Данни | Набор от функции за разширен анализ на данни с IBM SPSS. | HTML | ⭐ 338 |
-| 23 | [Gobjb/directory-opus-launch](https://github.com/Gobjb/directory-opus-launch) | Инструменти | Разширено управление на файлове с Directory Opus. | HTML | ⭐ 338 |
-| 24 | [praseesh369/youtube-ai-video-editing-system](https://github.com/praseesh369/youtube-ai-video-editing-system) | AI | AI система за монтаж на YouTube видеа. | HTML | ⭐ 338 |
-| 25 | [Daax116/startall-back-utility](https://github.com/Daax116/startall-back-utility) | Инструменти | Утилита за управление на десктоп с персонализация. | HTML | ⭐ 338 |
+| 1 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | Инструменти | Слой за съвместимост на Xbox Series за Windows, стартира конзолни игри нативно. | Rust | ⭐ 8164 |
+| 2 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Инструменти | Форк на Victory за рендериране и стартиране на Xbox игри на Windows. | Rust | ⭐ 2820 |
+| 3 | [Zettrox/ztrx](https://github.com/Zettrox/ztrx) | Инструменти | Стартира Xbox Series билдове на игри нативно на Windows с NVIDIA GPU. | Rust | ⭐ 1483 |
+| 4 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | Инструменти | Без описание — неясно за какво е. | Rust | ⭐ 1413 |
+| 5 | [Indigo-0167/universal-game-mod-manager](https://github.com/Indigo-0167/universal-game-mod-manager) | Инструменти | Мениджър за модове на Unity и Unreal игри с инсталация и актуализации. | Rust | ⭐ 1300 |
+| 6 | [Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows) | Инструменти | Мениджър на клипборд с история, преглед на изображения, тагове и бекъп. | C# | ⭐ 1265 |
+| 7 | [solv4626/steam-achievement-manager-windows](https://github.com/solv4626/steam-achievement-manager-windows) | Инструменти | Инструмент за управление на Steam постижения и статистики на игри. | Rust | ⭐ 1063 |
+| 8 | [zero5122/offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | Инструменти | Офлайн конвертор за файлове: PDF, документи, изображения, аудио и видео. | Python | ⭐ 1062 |
+| 9 | [kai415-debug/ffmpeg-video-audio-converter](https://github.com/kai415-debug/ffmpeg-video-audio-converter) | Инструменти | FFmpeg GUI за конвертиране на видео и аудио, батч обработка. | C++ | ⭐ 1025 |
+| 10 | [rowanbyte3329/stardew-valley-mod-manager](https://github.com/rowanbyte3329/stardew-valley-mod-manager) | Инструменти | Мениджър за модове на Stardew Valley с поддръжка на SMAPI и профили. | C# | ⭐ 871 |
+| 11 | [olive527/steam-library-manager-windows](https://github.com/olive527/steam-library-manager-windows) | Инструменти | Мениджър и бекъп инструмент за Steam, Origin и Ubisoft библиотеки. | C# | ⭐ 723 |
+| 12 | [Nebula4207/av1-video-encoder-gui](https://github.com/Nebula4207/av1-video-encoder-gui) | Инструменти | GUI за AV1 видео енкодъри с паралелно кодиране и поддръжка на NVENC. | C# | ⭐ 685 |
+| 13 | [Basil0879/steam-game-idler](https://github.com/Basil0879/steam-game-idler) | Инструменти | Steam idler за фарм на карти, постижения и автоматизация на акаунти. | TypeScript | ⭐ 682 |
+| 14 | [umbradev315/ffmpeg-video-audio-converter](https://github.com/umbradev315/ffmpeg-video-audio-converter) | Инструменти | FFmpeg GUI за конвертиране, батч обработка и анализ на качество. | Kotlin | ⭐ 554 |
+| 15 | [peak85-sketch/stardew-valley-mod-manager](https://github.com/peak85-sketch/stardew-valley-mod-manager) | Инструменти | Мениджър за модове на Stardew Valley с SMAPI, актуализации и профили. | C# | ⭐ 514 |
+| 16 | [ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida) | Игри | Проект за пренаписване на GTA VI от Xbox за PC чрез статична рекомпилация. | Python | ⭐ 426 |
+| 17 | [bikini/minecraft2shell](https://github.com/bikini/minecraft2shell) | Сигурност | Minecraft до нативен RCE експлоит. | Python | ⭐ 414 |
+| 18 | [SulphurS16/Regaliant](https://github.com/SulphurS16/Regaliant) | Игри | Неофициален PC порт на Demon's Souls (PS5), стартира собствена копия. | Rust | ⭐ 375 |
+| 19 | [sohzm/winedroid](https://github.com/sohzm/winedroid) | Инструменти | Стартира Android приложения на Web, Linux, macOS и Windows. | Rust | ⭐ 368 |
+| 20 | [boykopovar/AnyBox](https://github.com/boykopovar/AnyBox) | Инструменти | Слой за съвместимост на Xbox Series приложения за Windows. | C++ | ⭐ 367 |
+| 21 | [brcly/TuxBox](https://github.com/brcly/TuxBox) | Инструменти | Нативен слой за съвместимост за Xbox игри на Linux и Windows. | Rust | ⭐ 355 |
+| 22 | [purvprajapati2504-design/premiere-pro-video-editor](https://github.com/purvprajapati2504-design/premiere-pro-video-editor) | Друго | Професионален мултитрек видео редактор за Windows с 4K/8K експорт. | HTML | ⭐ 338 |
+| 23 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Друго | Desktop инструмент за авторинг, монтиране и конвертиране на дискови образи. | HTML | ⭐ 337 |
+| 24 | [rockford007/xyplorer-file-manager](https://github.com/rockford007/xyplorer-file-manager) | Друго | Продвинат файлов мениджър с табове и двоен панел. | HTML | ⭐ 337 |
+| 25 | [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | Друго | Утилита за оптимизация на мрежата и управление на маршрути. | HTML | ⭐ 337 |
 
-_Нови публични проекти, създадени след 2026-11-17, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-18, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-25](digest/2026/11-25.md)
 - [2026-11-24](digest/2026/11-24.md)
 - [2026-11-23](digest/2026/11-23.md)
 - [2026-11-22](digest/2026/11-22.md)
