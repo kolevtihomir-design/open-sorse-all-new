@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-25)
+## Днес (2026-11-26)
 
-Тази седмица доминират проекти за съвместимост на конзолни игри (Xbox Series, PS5) на PC, написани предимно на Rust. Популярни са и мениджъри за модове, Steam утилити и офлайн медия конвертори. Наблюжава се нарастване на инструменти за игрове и мултимедия за Windows.
+Това седмица доминантната тема е портирането на Xbox Series игри на PC — три проекта (VIctory-7900XTX, ScarlettPort, AnyXboxX) реализират native изпълнение и прекомпилация на шейдъри. Вторият голям тренд е изключително нискониво AI: llm.asm демонстрира инференс на Qwen3-0.6B на чист x86-64 асемблер без C/библиотеки. Появяват се и инструменти за AI-агенти в игровата разработка (opengame, inkworks-skill), както и формално доказателство на обобщената хипотеза на Риман в Lean 4. Опасно много репозитария с идентични звезди (336) и подозрителни имена изглеждат като спам/крак-инсталатори.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [xcl-dev/xcl](https://github.com/xcl-dev/xcl) | Инструменти | Слой за съвместимост на Xbox Series за Windows, стартира конзолни игри нативно. | Rust | ⭐ 8164 |
-| 2 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Инструменти | Форк на Victory за рендериране и стартиране на Xbox игри на Windows. | Rust | ⭐ 2820 |
-| 3 | [Zettrox/ztrx](https://github.com/Zettrox/ztrx) | Инструменти | Стартира Xbox Series билдове на игри нативно на Windows с NVIDIA GPU. | Rust | ⭐ 1483 |
-| 4 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | Инструменти | Без описание — неясно за какво е. | Rust | ⭐ 1413 |
-| 5 | [Indigo-0167/universal-game-mod-manager](https://github.com/Indigo-0167/universal-game-mod-manager) | Инструменти | Мениджър за модове на Unity и Unreal игри с инсталация и актуализации. | Rust | ⭐ 1300 |
-| 6 | [Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows) | Инструменти | Мениджър на клипборд с история, преглед на изображения, тагове и бекъп. | C# | ⭐ 1265 |
-| 7 | [solv4626/steam-achievement-manager-windows](https://github.com/solv4626/steam-achievement-manager-windows) | Инструменти | Инструмент за управление на Steam постижения и статистики на игри. | Rust | ⭐ 1063 |
-| 8 | [zero5122/offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | Инструменти | Офлайн конвертор за файлове: PDF, документи, изображения, аудио и видео. | Python | ⭐ 1062 |
-| 9 | [kai415-debug/ffmpeg-video-audio-converter](https://github.com/kai415-debug/ffmpeg-video-audio-converter) | Инструменти | FFmpeg GUI за конвертиране на видео и аудио, батч обработка. | C++ | ⭐ 1025 |
-| 10 | [rowanbyte3329/stardew-valley-mod-manager](https://github.com/rowanbyte3329/stardew-valley-mod-manager) | Инструменти | Мениджър за модове на Stardew Valley с поддръжка на SMAPI и профили. | C# | ⭐ 871 |
-| 11 | [olive527/steam-library-manager-windows](https://github.com/olive527/steam-library-manager-windows) | Инструменти | Мениджър и бекъп инструмент за Steam, Origin и Ubisoft библиотеки. | C# | ⭐ 723 |
-| 12 | [Nebula4207/av1-video-encoder-gui](https://github.com/Nebula4207/av1-video-encoder-gui) | Инструменти | GUI за AV1 видео енкодъри с паралелно кодиране и поддръжка на NVENC. | C# | ⭐ 685 |
-| 13 | [Basil0879/steam-game-idler](https://github.com/Basil0879/steam-game-idler) | Инструменти | Steam idler за фарм на карти, постижения и автоматизация на акаунти. | TypeScript | ⭐ 682 |
-| 14 | [umbradev315/ffmpeg-video-audio-converter](https://github.com/umbradev315/ffmpeg-video-audio-converter) | Инструменти | FFmpeg GUI за конвертиране, батч обработка и анализ на качество. | Kotlin | ⭐ 554 |
-| 15 | [peak85-sketch/stardew-valley-mod-manager](https://github.com/peak85-sketch/stardew-valley-mod-manager) | Инструменти | Мениджър за модове на Stardew Valley с SMAPI, актуализации и профили. | C# | ⭐ 514 |
-| 16 | [ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida) | Игри | Проект за пренаписване на GTA VI от Xbox за PC чрез статична рекомпилация. | Python | ⭐ 426 |
-| 17 | [bikini/minecraft2shell](https://github.com/bikini/minecraft2shell) | Сигурност | Minecraft до нативен RCE експлоит. | Python | ⭐ 414 |
-| 18 | [SulphurS16/Regaliant](https://github.com/SulphurS16/Regaliant) | Игри | Неофициален PC порт на Demon's Souls (PS5), стартира собствена копия. | Rust | ⭐ 375 |
-| 19 | [sohzm/winedroid](https://github.com/sohzm/winedroid) | Инструменти | Стартира Android приложения на Web, Linux, macOS и Windows. | Rust | ⭐ 368 |
-| 20 | [boykopovar/AnyBox](https://github.com/boykopovar/AnyBox) | Инструменти | Слой за съвместимост на Xbox Series приложения за Windows. | C++ | ⭐ 367 |
-| 21 | [brcly/TuxBox](https://github.com/brcly/TuxBox) | Инструменти | Нативен слой за съвместимост за Xbox игри на Linux и Windows. | Rust | ⭐ 355 |
-| 22 | [purvprajapati2504-design/premiere-pro-video-editor](https://github.com/purvprajapati2504-design/premiere-pro-video-editor) | Друго | Професионален мултитрек видео редактор за Windows с 4K/8K експорт. | HTML | ⭐ 338 |
-| 23 | [official00shivansh-eng/ultra-iso](https://github.com/official00shivansh-eng/ultra-iso) | Друго | Desktop инструмент за авторинг, монтиране и конвертиране на дискови образи. | HTML | ⭐ 337 |
-| 24 | [rockford007/xyplorer-file-manager](https://github.com/rockford007/xyplorer-file-manager) | Друго | Продвинат файлов мениджър с табове и двоен панел. | HTML | ⭐ 337 |
-| 25 | [Buntee-tech/exitlag-utility](https://github.com/Buntee-tech/exitlag-utility) | Друго | Утилита за оптимизация на мрежата и управление на маршрути. | HTML | ⭐ 337 |
+| 1 | [avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX) | Игри | Native PC порт на Xbox Series игра чрез прекомпилация на RDNA2 шейдъри. | Rust | ⭐ 1631 |
+| 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | AI | Qwen3-0.6B инференс и обучение на Mini-GPT на чист x86-64 NASM асемблер. | Assembly | ⭐ 1105 |
+| 3 | [lsernau/grh-lean](https://github.com/lsernau/grh-lean) | Образование | Кратко Lean 4 доказателство на обобщената хипотеза на Риман. | Lean | ⭐ 769 |
+| 4 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Инструменти | iOS локация симулатор за аксесоари през локален loopback (iAP2/MFi-v3/NMEA). | Swift | ⭐ 512 |
+| 5 | [DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox) | Друго | Непроменен mirror на codec-d/cool_fox (GPL-3.0). | Rust | ⭐ 422 |
+| 6 | [ZigZagBoi1/ScarlettPort](https://github.com/ZigZagBoi1/ScarlettPort) | Игри | Native PC порт слой за Xbox Series X/S: x64 код на CPU, RDNA2 GPU код рекомпилиран. | Rust | ⭐ 400 |
+| 7 | [LooperSalty/AnyXboxX](https://github.com/LooperSalty/AnyXboxX) | Игри | Прототип на Xbox Series X емулатор (HLE на GDK върху Unicorn). | Rust | ⭐ 395 |
+| 8 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | Агенти | Agent skill за интерактивни 3D how-it-works страници в стил инженерен лист. | JavaScript | ⭐ 370 |
+| 9 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | Агенти | Super Game Agent — Unity/Unreal за AI агенти, 100+ игри за ремикс. | TypeScript | ⭐ 367 |
+| 10 | [aathreynair22-bit/wifi-password-tester](https://github.com/aathreynair22-bit/wifi-password-tester) | Сигурност | WiFi Credential Strength Auditor: PowerShell brute-force тестер за безжичови мрежи. | HTML | ⭐ 336 |
+| 11 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 12 | [ali7080/adobe-air-sdk](https://github.com/ali7080/adobe-air-sdk) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 13 | [gaichayoubb-hub/directory-opus-utility](https://github.com/gaichayoubb-hub/directory-opus-utility) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 14 | [SELAMUMESHESHA/dxo-photolab-10](https://github.com/SELAMUMESHESHA/dxo-photolab-10) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 15 | [rafiiiakmall-cpu/aida-64-extreme](https://github.com/rafiiiakmall-cpu/aida-64-extreme) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 16 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 17 | [VenkateshGorityala/voicemod-audio-modifier](https://github.com/VenkateshGorityala/voicemod-audio-modifier) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 18 | [orakio1975/acrobat-pro-pdf-editor](https://github.com/orakio1975/acrobat-pro-pdf-editor) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 19 | [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 20 | [rahul9350125/photo-commander](https://github.com/rahul9350125/photo-commander) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 21 | [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 22 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 23 | [cleidsonmachadoalves45-byte/adobe-audition](https://github.com/cleidsonmachadoalves45-byte/adobe-audition) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 24 | [maslah44/cinebench-benchmark](https://github.com/maslah44/cinebench-benchmark) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 25 | [lebrowndnasty-hash/ai-app-builder](https://github.com/lebrowndnasty-hash/ai-app-builder) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
 
-_Нови публични проекти, създадени след 2026-11-18, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-19, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-26](digest/2026/11-26.md)
 - [2026-11-25](digest/2026/11-25.md)
 - [2026-11-24](digest/2026/11-24.md)
 - [2026-11-23](digest/2026/11-23.md)
