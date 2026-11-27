@@ -4,44 +4,45 @@
 
 ---
 
-## Днес (2026-11-26)
+## Днес (2026-11-27)
 
-Това седмица доминантната тема е портирането на Xbox Series игри на PC — три проекта (VIctory-7900XTX, ScarlettPort, AnyXboxX) реализират native изпълнение и прекомпилация на шейдъри. Вторият голям тренд е изключително нискониво AI: llm.asm демонстрира инференс на Qwen3-0.6B на чист x86-64 асемблер без C/библиотеки. Появяват се и инструменти за AI-агенти в игровата разработка (opengame, inkworks-skill), както и формално доказателство на обобщената хипотеза на Риман в Lean 4. Опасно много репозитария с идентични звезди (336) и подозрителни имена изглеждат като спам/крак-инсталатори.
+Тази седмица превладват Windows утилити за системна оптимизация и персонализация, заедно с експериментални слоеве за съвместимост на Xbox игри. Наблюдава се растеж на AI съпътници и агенти за код, както и инструменти за поверителност и обратен инженеринг. Освен това се появяват образователни симулации и уеб проследяващи платформи.
 
 | # | Проект | Тема | Какво е | Език | Звезди |
 |---|---|---|---|---|---|
-| 1 | [avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX) | Игри | Native PC порт на Xbox Series игра чрез прекомпилация на RDNA2 шейдъри. | Rust | ⭐ 1631 |
-| 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | AI | Qwen3-0.6B инференс и обучение на Mini-GPT на чист x86-64 NASM асемблер. | Assembly | ⭐ 1105 |
-| 3 | [lsernau/grh-lean](https://github.com/lsernau/grh-lean) | Образование | Кратко Lean 4 доказателство на обобщената хипотеза на Риман. | Lean | ⭐ 769 |
-| 4 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Инструменти | iOS локация симулатор за аксесоари през локален loopback (iAP2/MFi-v3/NMEA). | Swift | ⭐ 512 |
-| 5 | [DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox) | Друго | Непроменен mirror на codec-d/cool_fox (GPL-3.0). | Rust | ⭐ 422 |
-| 6 | [ZigZagBoi1/ScarlettPort](https://github.com/ZigZagBoi1/ScarlettPort) | Игри | Native PC порт слой за Xbox Series X/S: x64 код на CPU, RDNA2 GPU код рекомпилиран. | Rust | ⭐ 400 |
-| 7 | [LooperSalty/AnyXboxX](https://github.com/LooperSalty/AnyXboxX) | Игри | Прототип на Xbox Series X емулатор (HLE на GDK върху Unicorn). | Rust | ⭐ 395 |
-| 8 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | Агенти | Agent skill за интерактивни 3D how-it-works страници в стил инженерен лист. | JavaScript | ⭐ 370 |
-| 9 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | Агенти | Super Game Agent — Unity/Unreal за AI агенти, 100+ игри за ремикс. | TypeScript | ⭐ 367 |
-| 10 | [aathreynair22-bit/wifi-password-tester](https://github.com/aathreynair22-bit/wifi-password-tester) | Сигурност | WiFi Credential Strength Auditor: PowerShell brute-force тестер за безжичови мрежи. | HTML | ⭐ 336 |
-| 11 | [jorgezaltoo-design/microsoft-visio](https://github.com/jorgezaltoo-design/microsoft-visio) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 12 | [ali7080/adobe-air-sdk](https://github.com/ali7080/adobe-air-sdk) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 13 | [gaichayoubb-hub/directory-opus-utility](https://github.com/gaichayoubb-hub/directory-opus-utility) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 14 | [SELAMUMESHESHA/dxo-photolab-10](https://github.com/SELAMUMESHESHA/dxo-photolab-10) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 15 | [rafiiiakmall-cpu/aida-64-extreme](https://github.com/rafiiiakmall-cpu/aida-64-extreme) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 16 | [jomicat1989-dotcom/rust-external-trainer-tool](https://github.com/jomicat1989-dotcom/rust-external-trainer-tool) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 17 | [VenkateshGorityala/voicemod-audio-modifier](https://github.com/VenkateshGorityala/voicemod-audio-modifier) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 18 | [orakio1975/acrobat-pro-pdf-editor](https://github.com/orakio1975/acrobat-pro-pdf-editor) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 19 | [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 20 | [rahul9350125/photo-commander](https://github.com/rahul9350125/photo-commander) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 21 | [abj-a11y/landr-plugin-bundle](https://github.com/abj-a11y/landr-plugin-bundle) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 22 | [sadiqameen2005-pixel/display-fusion](https://github.com/sadiqameen2005-pixel/display-fusion) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 23 | [cleidsonmachadoalves45-byte/adobe-audition](https://github.com/cleidsonmachadoalves45-byte/adobe-audition) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 24 | [maslah44/cinebench-benchmark](https://github.com/maslah44/cinebench-benchmark) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
-| 25 | [lebrowndnasty-hash/ai-app-builder](https://github.com/lebrowndnasty-hash/ai-app-builder) | Друго | Без описание — неясно за какво е. | HTML | ⭐ 336 |
+| 1 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) | AI | 3D/2D десктоп котка за писане и AI съпътник за кодиране. | TypeScript | ⭐ 1720 |
+| 2 | [Pixel679-cmyk/windows-titlebar-blur-customizer](https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer) | Инструменти | Персонализира ефекти на заглавие на прозорец в Windows 10/11. | C++ | ⭐ 1122 |
+| 3 | [zortos293/XSEmu](https://github.com/zortos293/XSEmu) | Игри | Експериментален емулатор за Xbox Series X/S игри на Windows. | Rust | ⭐ 832 |
+| 4 | [0x1A6C1A9Y/focus-clock](https://github.com/0x1A6C1A9Y/focus-clock) | Инструменти | Минимален уеб таймер за фокус, почивки и последователни задачи. | HTML | ⭐ 557 |
+| 5 | [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) | Игри | Съвместимостен слой за Xbox игри, оптимизиран за NVIDIA RTX с DLSS. | Rust | ⭐ 546 |
+| 6 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) | Сигурност | Python скрипт за автоматични заявки за изтриване на лични данни у брокери. | Python | ⭐ 512 |
+| 7 | [linjiejim/ohmwork](https://github.com/linjiejim/ohmwork) | Образование | Интерактивна платформа за учене на електронни вериги чрез симулация. | TypeScript | ⭐ 493 |
+| 8 | [sunbird-tools/sunbird](https://github.com/sunbird-tools/sunbird) | Инструменти | Разключва Phoenix на Android/iOS/Windows Discord с плъгини. | Rust | ⭐ 483 |
+| 9 | [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) | Агенти | AI умение, превръщащо подкани в формално верифициран, готов за производство код. | JavaScript | ⭐ 468 |
+| 10 | [stellarr-studio/kelvaroq](https://github.com/stellarr-studio/kelvaroq) | Игри | Експериментален runtime за съвместимост с Xbox Series на Windows x64. | Python | ⭐ 460 |
+| 11 | [HSgod/ps5-fpsunlocker-gta6](https://github.com/HSgod/ps5-fpsunlocker-gta6) | Игри | Отключва FPS лимит в GTA VI за джейлбрейкнат PS5. | C | ⭐ 396 |
+| 12 | [ChatAndBuild/conjectures](https://github.com/ChatAndBuild/conjectures) | Образование | Проследява формални доказателства за RH/GRH конектури в Lean. | TeX | ⭐ 387 |
+| 13 | [EL4CTEO/shrink-anything](https://github.com/EL4CTEO/shrink-anything) | Инструменти | Инструмент за премахване на мъртъв код, запазващ тестовете работещи. | Rust | ⭐ 376 |
+| 14 | [erkamyaman/rea-games](https://github.com/erkamyaman/rea-games) | Игри | Обратен инженеринг на игри и техно преизграждане в различни движки. | JavaScript | ⭐ 373 |
+| 15 | [vuyp/gta6-pc-race](https://github.com/vuyp/gta6-pc-race) | Уеб | Автоматизиран сайт за проследяване на PC портове на GTA VI Xbox билд. | HTML | ⭐ 369 |
+| 16 | [bit-loop86/treesize-free](https://github.com/bit-loop86/treesize-free) | Инструменти | Скенер на дисково пространство за Windows, показващ най-големи файлове и папки. | — | ⭐ 358 |
+| 17 | [Msen4/easeus-partition-master](https://github.com/Msen4/easeus-partition-master) | Инструменти | Мениджър на дискови партиции за Windows: преоразмеряване, сливане, клониране. | — | ⭐ 356 |
+| 18 | [crafpa/driver-reviver](https://github.com/crafpa/driver-reviver) | Инструменти | Скенер и актуализатор на драйвери за Windows, поправящ аудио, графика и мрежа. | — | ⭐ 356 |
+| 19 | [jshukla93/xsplit-broadcaster](https://github.com/jshukla93/xsplit-broadcaster) | Инструменти | Софтуер за стрийминг: миксва геймплей, уебкамери и медия за Twitch/YouTube. | — | ⭐ 355 |
+| 20 | [commitproxydata/peazip](https://github.com/commitproxydata/peazip) | Инструменти | Архиватор за Windows, поддържащ 7z, ZIP, RAR, TAR и криптиране. | — | ⭐ 355 |
+| 21 | [huang3761/bruno-api](https://github.com/huang3761/bruno-api) | Инструменти | API клиент за HTTP, GraphQL и REST с колекции и споделяне. | — | ⭐ 354 |
+| 22 | [FireLab2002/photoscape-x](https://github.com/FireLab2002/photoscape-x) | Инструменти | Редактор на снимки с филтри, колажи, батч преименуване и GIF анимации. | — | ⭐ 354 |
+| 23 | [bird-script-light/jetbrains-webstorm](https://github.com/bird-script-light/jetbrains-webstorm) | Инструменти | IDE за JavaScript/TypeScript/HTML с умно завършване, проверки и дебъгване. | — | ⭐ 354 |
+| 24 | [jawozniak/f-secure-total](https://github.com/jawozniak/f-secure-total) | Сигурност | Сигурностен пакет: антивирус, банкова защита, пароли и браузърна сигурност. | — | ⭐ 354 |
+| 25 | [avciomer1155/izotope-tonal-balance-control](https://github.com/avciomer1155/izotope-tonal-balance-control) | Инструменти | Аудио инструмент за тонален баланс според жанрови целеви криви. | — | ⭐ 353 |
 
-_Нови публични проекти, създадени след 2026-11-19, подредени по звезди; всеки проект влиза само веднъж._
+_Нови публични проекти, създадени след 2026-11-20, подредени по звезди; всеки проект влиза само веднъж._
 
 ---
 
 ## Архив
 
+- [2026-11-27](digest/2026/11-27.md)
 - [2026-11-26](digest/2026/11-26.md)
 - [2026-11-25](digest/2026/11-25.md)
 - [2026-11-24](digest/2026/11-24.md)
